@@ -1,0 +1,751 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<title> Search -  | Writer & Geek Show | Weekly podcast on science, history, technology and everything in between and beyond.</title>
+
+<meta name="description" content="A podcast on Culture, History, Science, Tech and Productivity tips.
+">
+
+      <meta name="twitter:card" content="summary">
+      <meta name="twitter:site" content="@neoelemento">
+      <meta name="twitter:creator" content="@neoelemento">
+      <meta name="twitter:domain" content="vishnupadmanabhan.com">
+      
+      
+        <meta content="Search" property="og:title">
+        <meta content="Search" property="twitter:title">
+      
+      
+        <meta content="A podcast on Culture, History, Science, Tech and Productivity tips.
+" property="og:description">
+        <meta content="A podcast on Culture, History, Science, Tech and Productivity tips.
+" property="twitter:description">
+      
+      
+      <meta property="article:publisher" content="https://www.facebook.com/writerandgeek/" />
+      <meta property="article:author" content="https://www.facebook.com/writerandgeek" />
+    
+      
+      <!-- Latest compiled and minified CSS -->
+      <link rel="stylesheet" href="/css/main.css" media="screen,projection">
+      <link rel="apple-touch-icon" sizes="180x180" href="https://res.cloudinary.com/writerandgeek/image/upload/v1506971979/wnglogo-small.jpg">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://res.cloudinary.com/writerandgeek/image/upload/v1506971979/wnglogo-small.jpg">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://res.cloudinary.com/writerandgeek/image/upload/v1506971979/wnglogo-small.jpg">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Bootstrap core CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Material Design Bootstrap -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.5.4/css/mdb.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/css/main.css" media="screen,projection">
+
+      <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+      <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+      <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+
+      <link rel="alternate" type="application/rss+xml" title="Writer &amp; Geek Show" href="http://localhost:4000/feed.xml" />
+      <!--Cookie Policy-->
+      <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+      <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+      <script>
+      window.addEventListener("load", function(){
+      window.cookieconsent.initialise({
+        "palette": {
+          "popup": {
+            "background": "#1b1b25",
+            "text": "#5cb85c"
+          },
+          "button": {
+            "background": "transparent",
+            "text": "#5cb85c",
+            "border": "#5cb85c"
+          }
+        },
+        "position": "bottom-right",
+        "content": {
+          "message": "This website uses cookies and analytics to ensure you get the best experience on our website."
+        }
+      })});
+      </script>
+      <!--end cookie-->
+
+
+</head>
+  <body>
+
+    <!-- Navbar -->
+<nav class="navbar fixed-top navbar-expand-lg navbar-dark scrolling-navbar">
+  <div class="container">
+
+    <!-- Brand -->
+    <a class="navbar-brand" href="/">
+      writer &amp; geek show
+    </a>
+
+    <!-- Collapse -->
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+      aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <!-- Links -->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+      <!-- Left -->
+      <ul class="navbar-nav mr-auto">
+        <!-- <li class="nav-item active">
+          <a class="nav-link" href="#">Home
+            <span class="sr-only">(current)</span>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://mdbootstrap.com/material-design-for-bootstrap/">About MDB</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://mdbootstrap.com/getting-started/">Free download</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://mdbootstrap.com/bootstrap-tutorial/">Free tutorials</a>
+        </li> -->
+      </ul>
+
+      <!-- <form class="form-inline">
+              <div class="md-form my-0">
+                  <input class="search-text form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+              </div>
+          </form> -->
+
+          <form action="/search" method="GET" class="form-inline">
+            <div class="md-form my-0">
+                <input type="text" class="search-text form-control mr-sm-2" placeholder="Search" aria-label="Search" name="query" id="search-box" autocomplete="off">
+            </div>
+        </form>
+      <!-- Right -->
+      <ul class="navbar-nav nav-flex-icons">
+          <li class="nav-item">
+              <a class="nav-link" href="/about/">about
+                  <span class="sr-only">(current)</span>
+              </a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link" href="/episodes/">episodes</a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link" href="/archives/">archives</a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link" href="/contact/">contact</a>
+          </li>
+          <!-- <li class="nav-item dropdown" dropdown>
+              <a dropdownToggle mdbWavesEffect type="button" class="nav-link dropdown-toggle waves-light" mdbWavesEffect>
+              Basic dropdown<span class="caret"></span></a>
+              <div *dropdownMenu class="dropdown-menu dropdown dropdown-primary" role="menu">
+                  <a class="dropdown-item waves-light" target="_blank" mdbWavesEffect href="http://twitter.com/writerandgeek">@writerandgeek</a>
+                  <a class="dropdown-item waves-light" target="_blank" mdbWavesEffect href="http://twitter.com/ramblingjoint">@shankar</a>
+                  <a class="dropdown-item waves-light" target="_blank" mdbWavesEffect href="http://twitter.com/neoelemento">@vishnu</a>
+                  <div class="divider dropdown-divider"></div>
+                  <a class="dropdown-item waves-light" target="_blank" mdbWavesEffect href="javascript:void(0);">&#x68;&#x65;&#x6C;&#x6C;&#x6F;&#x40;&#x77;&#x72;&#x69;&#x74;&#x65;&#x72;&#x61;&#x6E;&#x64;&#x67;&#x65;&#x65;&#x6B;&#x2E;&#x63;&#x6F;&#x6D;</a>
+              </div>
+          </li> -->
+      </ul>
+
+    </div>
+
+  </div>
+</nav>
+<!-- Navbar -->
+ 
+        <div class="container-fluid">
+    <div class="row">
+        <div class="jumbotron-single text-center">
+            <div class="col-md-6 offset-md-3">
+                <h2 class="post-title-single">Search</h2>
+            </div>               
+        </div>
+    </div>
+</div>
+
+<section class="container-fluid">
+    <div class="row">
+        <article class="col-md-8 offset-md-2 single-article">
+            <div class="post-body">
+                <ul id="search-results"></ul>
+
+
+
+<script>
+  window.store = {
+    
+      "046-deconstructing-formula-one": {
+        "title": "Deconstructing Formula One",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "The...",
+        "excerpt": "In this episode, we discuss the science and history of Formula 1.",
+        "url": "/046-deconstructing-formula-one/"
+      }
+      ,
+    
+      "045-pioneer-10": {
+        "title": "Pioneer 10: The Lost Traveller",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "Note:...",
+        "excerpt": "In this episode we discuss the history of Pioneer 10.",
+        "url": "/045-pioneer-10/"
+      }
+      ,
+    
+      "044-birth-control": {
+        "title": "Bizarre history of birth control",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "Birth...",
+        "excerpt": "In this episode we discuss the history of birth control.",
+        "url": "/044-birth-control/"
+      }
+      ,
+    
+      "043-why-history": {
+        "title": "Beer Talk: Why learn history?",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "Why...",
+        "excerpt": "In this episode, the crew discusses why learning history is important.",
+        "url": "/043-why-history/"
+      }
+      ,
+    
+      "042-timekeeping": {
+        "title": "History of Timekeeping",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "Definition...",
+        "excerpt": "We take watches and clocks for granted. How did they come into being?",
+        "url": "/042-timekeeping/"
+      }
+      ,
+    
+      "041-coffee": {
+        "title": "Coffee rules the world",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "World...",
+        "excerpt": "Coffee is one of the most popular drink alongside water",
+        "url": "/041-coffee/"
+      }
+      ,
+    
+      "040-serial-killer-dc-sniper": {
+        "title": "Serial Killer Files Part 4: DC Sniper",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "The...",
+        "excerpt": "The story of the DC Snipers.",
+        "url": "/040-serial-killer-dc-sniper/"
+      }
+      ,
+    
+      "039-continental-drift": {
+        "title": "Why do the continents move",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "Continental...",
+        "excerpt": "In this episode, we talk about continental drift",
+        "url": "/039-continental-drift/"
+      }
+      ,
+    
+      "038-online-privacy": {
+        "title": "Beer Talk: Facebook, Google and online privacy",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "Facebook,...",
+        "excerpt": "In this special episode, we ramble about online privacy and why Vishnu deleted his FB account",
+        "url": "/038-online-privacy/"
+      }
+      ,
+    
+      "037-race-to-south-pole": {
+        "title": "The Race to the South Pole",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "The...",
+        "excerpt": "In this episode we speak about the race to South Pole",
+        "url": "/037-race-to-south-pole/"
+      }
+      ,
+    
+      "036-blockchain-primer": {
+        "title": "Blockchain Primer",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "The...",
+        "excerpt": "In this episode we speak about the blockchain technology",
+        "url": "/036-blockchain-primer/"
+      }
+      ,
+    
+      "035-the-match-fixing": {
+        "title": "The Match Fixing Scandal of 2000",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "The...",
+        "excerpt": "In this episode we speak the scandal which shook the cricketing world",
+        "url": "/035-the-match-fixing/"
+      }
+      ,
+    
+      "034-comic-rupen-paul": {
+        "title": "Life as a comic with Rupen Paul",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "Interview...",
+        "excerpt": "In this episode we speak to Rupen Paul about the being a standup comedian",
+        "url": "/034-comic-rupen-paul/"
+      }
+      ,
+    
+      "033-submarines": {
+        "title": "Submarines",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "Submarines...",
+        "excerpt": "We talk about submarines, the coolest way to travel!",
+        "url": "/033-submarines/"
+      }
+      ,
+    
+      "032-restaurant-roundup-02": {
+        "title": "Restaurant Roundup - 02",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "For...",
+        "excerpt": "We ramble about the places we love to eat",
+        "url": "/032-restaurant-roundup-02/"
+      }
+      ,
+    
+      "031-serial-killer-green-river": {
+        "title": "Serial Killer Files Part 3: The Green River Killer",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "Episodes...",
+        "excerpt": "The story of the Green River Killer - Gary Ridgeway.",
+        "url": "/031-serial-killer-green-river/"
+      }
+      ,
+    
+      "030-to-moon-and-back-5": {
+        "title": "To Moon and Back - Part 5",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "Episodes...",
+        "excerpt": "There were six more missions after Apollo 11.",
+        "url": "/030-to-moon-and-back-5/"
+      }
+      ,
+    
+      "029-history-of-motion-picture-01": {
+        "title": "History of Motion Pictures: Part 1",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "Motion...",
+        "excerpt": "A look into the evolution of motion pictures and photography",
+        "url": "/029-history-of-motion-picture-01/"
+      }
+      ,
+    
+      "028-evolution-of-language-dravidian-01": {
+        "title": "Evolution of Languages: Dravidian - Part 1",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "The...",
+        "excerpt": "A look into the evolution of languages starting with Dravidian.",
+        "url": "/028-evolution-of-language-dravidian-01/"
+      }
+      ,
+    
+      "027-history-of-toothbrush": {
+        "title": "History of the Toothbrush",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "The...",
+        "excerpt": "A look into the history of the toothbrush.",
+        "url": "/027-history-of-toothbrush/"
+      }
+      ,
+    
+      "026-serial-killer-ed-gein": {
+        "title": "Serial Killer Files Part 2: Ed Gein - The Real Psycho",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "Episodes...",
+        "excerpt": "Ed Gein was a killer who inpired many dark movie characters",
+        "url": "/026-serial-killer-ed-gein/"
+      }
+      ,
+    
+      "025-genographic-project": {
+        "title": "The Genographic Project (Human Migration)",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "The...",
+        "excerpt": "Humans originated in Africa, how did we spread all over?",
+        "url": "/025-genographic-project/"
+      }
+      ,
+    
+      "024-the-law-of-attraction": {
+        "title": "What is the Law of Attraction?",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "The...",
+        "excerpt": "What is LOA and how exactly does it work?",
+        "url": "/024-the-law-of-attraction/"
+      }
+      ,
+    
+      "023-to-moon-and-back-4": {
+        "title": "To Moon and Back - Part 4",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "Episodes...",
+        "excerpt": "Apollo 11 mission - how much do you know about it?",
+        "url": "/023-to-moon-and-back-4/"
+      }
+      ,
+    
+      "022-freelance-and-startups": {
+        "title": "Freelancing and Startups",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "On...",
+        "excerpt": "What does it take to be a freelancer or to work in a startup.",
+        "url": "/022-freelance-and-startups/"
+      }
+      ,
+    
+      "021-war-stories-1": {
+        "title": "The War Stories: World War I &amp; II",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "The...",
+        "excerpt": "Everyone knows about World War (we hope so). Here are some lesser known facts.",
+        "url": "/021-war-stories-1/"
+      }
+      ,
+    
+      "020-serial-killer-night-stalker": {
+        "title": "Serial Killer Files Part 1: The Night Stalker",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "Episodes...",
+        "excerpt": "Richard Ramirez was a serial killer who terrorized LA in the 80's",
+        "url": "/020-serial-killer-night-stalker/"
+      }
+      ,
+    
+      "019-restaurant-roundup-01": {
+        "title": "Restaurant Roundup - 01",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "For...",
+        "excerpt": "We ramble about the places we love to eat",
+        "url": "/019-restaurant-roundup-01/"
+      }
+      ,
+    
+      "018-writing-tools": {
+        "title": "Tools for writing",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "Writing...",
+        "excerpt": "Writing is an art and you need your tools",
+        "url": "/018-writing-tools/"
+      }
+      ,
+    
+      "017-our-musical-evolution": {
+        "title": "Our musical evolution",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "How...",
+        "excerpt": "We discuss the evolution of our musical taste over the years.",
+        "url": "/017-our-musical-evolution/"
+      }
+      ,
+    
+      "016-neanderthal": {
+        "title": "The Neanderthals - Where did they go?",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "What...",
+        "excerpt": "Humans did not evolve from Neanderthals as some people think. Sorry.",
+        "url": "/016-neanderthal/"
+      }
+      ,
+    
+      "015-podcasting-infrastructure": {
+        "title": "Podcasting Infrastructure, Hardware and Software",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "Podcasting...",
+        "excerpt": "Podcasting story continued. More technical.",
+        "url": "/015-podcasting-infrastructure/"
+      }
+      ,
+    
+      "014-intro-to-podcasting": {
+        "title": "Intro to podcasting",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "How...",
+        "excerpt": "How can you start a podcast - our story",
+        "url": "/014-intro-to-podcasting/"
+      }
+      ,
+    
+      "013-mars-one": {
+        "title": "Mars One - too ambitious?",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "What...",
+        "excerpt": "Mars One has a plan to go to Mars. Will they succeed?",
+        "url": "/013-mars-one/"
+      }
+      ,
+    
+      "012-sherlock-holmes": {
+        "title": "One Mr. Sherlock Holmes",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "It’s...",
+        "excerpt": "We ramble about the famous fictional detective",
+        "url": "/012-sherlock-holmes/"
+      }
+      ,
+    
+      "011-to-moon-and-back-3": {
+        "title": "To Moon and Back - Part 3",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "Episodes...",
+        "excerpt": "Apollo 11 landed on the moon. What about Apollo 1-10?",
+        "url": "/011-to-moon-and-back-3/"
+      }
+      ,
+    
+      "010-mangalyaan": {
+        "title": "Mangalyaan: To Mars on budget",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "Cheaper...",
+        "excerpt": "India sent a probe to Mars on budget. Let's see how.",
+        "url": "/010-mangalyaan/"
+      }
+      ,
+    
+      "009-3d-printing": {
+        "title": "3D Printing for Practical Purposes",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "Earlier...",
+        "excerpt": "Can 3D printing be future of business as we know?",
+        "url": "/009-3d-printing/"
+      }
+      ,
+    
+      "008-artificial-intelligence": {
+        "title": "AI - evolution or revolution?",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "It...",
+        "excerpt": "Where does AI lead us? Expansion or destruction?",
+        "url": "/008-artificial-intelligence/"
+      }
+      ,
+    
+      "007-mass-hysteria": {
+        "title": "Mass Hysteria feat. Monkey Man",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "Mind...",
+        "excerpt": "Taking a peek into creepy world of mass hysteria",
+        "url": "/007-mass-hysteria/"
+      }
+      ,
+    
+      "006-to-moon-and-back-2": {
+        "title": "To Moon and Back - Part 2",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "Episodes...",
+        "excerpt": "More about Saturn V launch vehicle and Apollo spacecraft",
+        "url": "/006-to-moon-and-back-2/"
+      }
+      ,
+    
+      "005-to-moon-and-back-1": {
+        "title": "To Moon and Back - Part 1",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "Episodes...",
+        "excerpt": "History of Moon landings and the events surrounding it.",
+        "url": "/005-to-moon-and-back-1/"
+      }
+      ,
+    
+      "004-phantom-time": {
+        "title": "Phantom Time Hypothesis",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "Mentions...",
+        "excerpt": "Did the early middle ages really happen?",
+        "url": "/004-phantom-time/"
+      }
+      ,
+    
+      "003-losing-weight": {
+        "title": "Losing weight",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "Mentions...",
+        "excerpt": "Many of us want to lose that extra bit of weight, but few are successful.",
+        "url": "/003-losing-weight/"
+      }
+      ,
+    
+      "002-social-media": {
+        "title": "Social media gives you wings",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "Key...",
+        "excerpt": "Social media makes you rude? What makes us feel like it's okay to be?",
+        "url": "/002-social-media/"
+      }
+      ,
+    
+      "001-education": {
+        "title": "Does formal education do justice?",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "Key...",
+        "excerpt": "Did your school and college prepare you for your future life in the real world?",
+        "url": "/001-education/"
+      }
+      ,
+    
+      "000-intro": {
+        "title": "Welcome to the show",
+        "author": "Writer &amp; Geek",
+        "categories": '[&quot;Regular&quot;]',
+        "content": "Music:...",
+        "excerpt": "What is Writer and Geek all about? This is an intro to W&amp;G",
+        "url": "/000-Intro/"
+      }
+      
+    
+  };
+</script>
+
+<script src="/js/lunr.js"></script>
+<script src="/js/search.js"></script>
+            </div>
+        </article>
+    </div>
+</section>
+
+
+    <footer>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-8 offset-md-2 footer-content">
+                <h3>Writer &amp; Geek Show</h3>
+                <p>We are Writer &amp; Geek, we make our listeners get excited about boring stuff one episode at a time.</p>
+                <hr>
+                <p class="copyright">© Copyright 2018, Writer and Geek. This podcast, the content and opinions are our own and does not reflect the opinions of our employers. Images and other artwork are copyrighted to the respective owners or are uncopyrighted and attributed wherever possible.</p>
+
+                <div class="text-center social-links">
+                        <ul class="list-inline">
+                            <li>
+                                <a href="https://facebook.com/writerandgeek" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>
+                            </li>
+                            <li>
+                                <a href="https://twitter.com/writerandgeek" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>
+                            </li>
+                            <li>
+                                <a href="https://instagram.com/writerandgeek" target="_blank"><i class="fa fa-instagram fa-2x"></i></a>
+                            </li>
+                            <li>
+                                <a href="https://itunes.apple.com/us/podcast/id1243324627" target="_blank"><i class="fa fa-apple fa-2x"></i></a>
+                            </li>
+                            <li>
+                                <a href="http://feeds.feedburner.com/WriterAndGeek" target="_blank"><i class="fa fa-rss fa-2x"></i></a>
+                            </li>
+                        </ul>                 
+                    </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- JQuery -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!-- Bootstrap tooltips -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.13.0/umd/popper.min.js"></script>
+<!-- Bootstrap core JavaScript -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<!-- MDB core JavaScript -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.5.4/js/mdb.min.js"></script>
+
+<script src="/js/site.js"></script>
+<script src="/js/media.js"></script>
+<script src="/js/timejump.js"></script>
+<script src="/js/smoothscroll.js"></script>
+<script>
+    $(function () {
+        $('[data-toggle="tooltip"]').tooltip()
+        $('[data-toggle="popover"]').popover();
+    });
+</script>
+<script>
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://writerandgeek.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-99127415-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+  </body>
+
+</html>
