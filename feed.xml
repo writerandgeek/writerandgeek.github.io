@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 Jun 2018 15:33:06 +0530</pubDate>
-    <lastBuildDate>Fri, 29 Jun 2018 15:33:06 +0530</lastBuildDate>
+    <pubDate>Fri, 29 Jun 2018 18:39:23 +0530</pubDate>
+    <lastBuildDate>Fri, 29 Jun 2018 18:39:23 +0530</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -262,9 +262,9 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years&lt;/l
 
 &lt;h4 id=&quot;relative-size-of-solar-system&quot;&gt;Relative size of solar system:&lt;/h4&gt;
 
-&lt;div class=&quot;videoWrapper&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/pR5VJo5ifdE&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+&lt;video id=&quot;vplayer&quot; width=&quot;640&quot; height=&quot;360&quot; controls=&quot;control&quot; preload=&quot;none&quot;&gt;		
+			&lt;source src=&quot;https://www.youtube.com/watch?v=pR5VJo5ifdE&quot; type=&quot;video/youtube&quot; /&gt;
+&lt;/video&gt;
 
 &lt;p&gt;Image: &lt;a href=&quot;https://simple.wikipedia.org/wiki/Pioneer_10#/media/File:Pioneer_10-11_spacecraft.jpg&quot; target=&quot;_blank&quot;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
 </description>

@@ -10,8 +10,8 @@
 		<managingEditor>hello@writerandgeek.com</managingEditor>
 		<webMaster>hello@writerandgeek.com</webMaster>
 		<copyright>2018 - Writer &amp; Geek Show</copyright>
-		<pubDate>Fri, 29 Jun 2018 15:33:06 +0530</pubDate>
-		<lastBuildDate>Fri, 29 Jun 2018 15:33:06 +0530</lastBuildDate>
+		<pubDate>Fri, 29 Jun 2018 18:39:23 +0530</pubDate>
+		<lastBuildDate>Fri, 29 Jun 2018 18:39:23 +0530</lastBuildDate>
 		<image>
 			<link>http://localhost:4000</link>
 			<url>http://res.cloudinary.com/writerandgeek/image/upload/v1506998325/wnglogo.jpg</url>
@@ -442,9 +442,9 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 
 <h4 id="relative-size-of-solar-system">Relative size of solar system:</h4>
 
-<div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pR5VJo5ifdE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-</div>
+<video id="vplayer" width="640" height="360" controls="control" preload="none">		
+			<source src="https://www.youtube.com/watch?v=pR5VJo5ifdE" type="video/youtube" />
+</video>
 
 <p>Image: <a href="https://simple.wikipedia.org/wiki/Pioneer_10#/media/File:Pioneer_10-11_spacecraft.jpg" target="_blank">Wikipedia</a></p>
 ]]></itunes:summary>
@@ -546,9 +546,9 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 
 <h4 id="relative-size-of-solar-system">Relative size of solar system:</h4>
 
-<div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pR5VJo5ifdE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-</div>
+<video id="vplayer" width="640" height="360" controls="control" preload="none">		
+			<source src="https://www.youtube.com/watch?v=pR5VJo5ifdE" type="video/youtube" />
+</video>
 
 <p>Image: <a href="https://simple.wikipedia.org/wiki/Pioneer_10#/media/File:Pioneer_10-11_spacecraft.jpg" target="_blank">Wikipedia</a></p>
 ]]></content:encoded>
