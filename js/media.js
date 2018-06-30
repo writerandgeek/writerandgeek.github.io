@@ -13,4 +13,10 @@
 
 jQuery(document).ready(function($) {
     $('.vplayer').mediaelementplayer();
+
+    // $('iframe').load( function() {
+    //     $('iframe').contents().find("head")
+    //     .append($("<style type='text/css'>  #simplecast-player-front{border-color: rgba(0, 0, 0, 0);}  </style>"));
+    // });
 });
+
