@@ -141,7 +141,7 @@
               <a class="nav-link" href="/archives/">archives</a>
           </li>
           <li class="nav-item">
-              <a class="nav-link" href="/contact/">contact</a>
+              <a class="nav-link" data-toggle="modal" data-target="#modalContactForm" href="">contact</a>
           </li>
           <!-- <li class="nav-item dropdown" dropdown>
               <a dropdownToggle mdbWavesEffect type="button" class="nav-link dropdown-toggle waves-light" mdbWavesEffect>
@@ -161,6 +161,66 @@
   </div>
 </nav>
 <!-- Navbar -->
+
+<!-- contact form -->
+<div class="modal fade" id="modalContactForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <!--Modal: Contact form-->
+    <div class="modal-dialog cascading-modal" role="document">
+
+        <!--Content-->
+        <div class="modal-content">
+
+            <!--Header-->
+            <div class="modal-header special-color-dark white-text">
+                <h4 class="title">Contact us</h4>
+                <button type="button" class="close waves-effect waves-light" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">×</span>
+                </button>
+            </div>
+            <!--Body-->
+            <div class="modal-body">
+
+                <!-- Material input name -->
+                <div class="md-form form-sm">
+                    <i class="fa fa-envelope prefix"></i>
+                    <input type="text" id="materialFormNameModalEx1" class="form-control form-control-sm">
+                    <label for="materialFormNameModalEx1">Your name</label>
+                </div>
+
+                <!-- Material input email -->
+                <div class="md-form form-sm">
+                    <i class="fa fa-lock prefix"></i>
+                    <input type="password" id="materialFormEmailModalEx1" class="form-control form-control-sm">
+                    <label for="materialFormEmailModalEx1">Your email</label>
+                </div>
+
+                <!-- Material input subject -->
+                <div class="md-form form-sm">
+                    <i class="fa fa-tag prefix"></i>
+                    <input type="text" id="materialFormSubjectModalEx1" class="form-control form-control-sm">
+                    <label for="materialFormSubjectModalEx1">Subject</label>
+                </div>
+
+                <!-- Material textarea message -->
+                <div class="md-form form-sm">
+                    <i class="fa fa-pencil prefix"></i>
+                    <textarea type="text" id="materialFormMessageModalEx1" class="md-textarea form-control"></textarea>
+                    <label for="materialFormMessageModalEx1">Your message</label>
+                </div>
+
+                <div class="text-center mt-4 mb-2">
+                    <button class="btn btn-outline-grey btn-rounded">Send
+                        <i class="fa fa-send ml-2"></i>
+                    </button>
+                </div>
+
+            </div>
+        </div>
+        <!--/.Content-->
+    </div>
+    <!--/Modal: Contact form-->
+</div>
+<!-- end ontact form -->
 
     <!--Carousel Wrapper-->
 <div id="carousel-example-1z" class="carousel slide carousel-fade" data-ride="carousel">
@@ -455,11 +515,71 @@
     <!-- Testimonial Bio section -->
     <div class="row">
             <section class="testimonial col-md-6 offset-md-3">
-                <h1>Our friends say...</h1>
+                <h1>What friends say about us</h1>
                 <blockquote>
                     Love the chemistry between the brothers! The discussions, albeit freewheeling, are on topics well researched! Kudos! <br> 
                     - Saif Omar, The Musafir Stories.
                 </blockquote>
+
+                <div class="row">
+
+                        <!--Grid column-->
+                        <div class="col-lg-6 col-md-12 mb-6">
+                
+                            <!--Card-->
+                            <div class="card testimonial-card">
+                
+                                <!--Background color-->
+                                <div class="card-up teal lighten-2">
+                                </div>
+                
+                                <!--Avatar-->
+                                <div class="avatar mx-auto white"><img src="https://res.cloudinary.com/writerandgeek/image/upload/v1521320785/sp.jpg" alt="avatar mx-auto white" class="rounded-circle img-fluid">
+                                </div>
+                
+                                <div class="card-body">
+                                    <!--Name-->
+                                    <h4 class="card-title mt-1">Shankar</h4>
+                                    <hr>
+                                    <!--Quotation-->
+                                    <p><i class="fa fa-quote-left"></i> No filter, whatsoever.</p>
+                                </div>
+                
+                            </div>
+                            <!--Card-->
+                
+                        </div>
+                        <!--Grid column-->
+                
+                        <!--Grid column-->
+                        <div class="col-lg-6 col-md-12 mb-6">
+                
+                            <!--Card-->
+                            <div class="card testimonial-card">
+                
+                                <!--Background color-->
+                                <div class="card-up blue lighten-2">
+                                </div>
+                
+                                <!--Avatar-->
+                                <div class="avatar mx-auto white"><img src="https://res.cloudinary.com/vishnupadmanabhan/image/upload/v1527369126/dp.jpg" alt="avatar mx-auto white"  class="rounded-circle img-fluid">
+                                </div>
+                
+                                <div class="card-body">
+                                    <!--Name-->
+                                    <h4 class="card-title mt-1">Vishnu</h4>
+                                    <hr>
+                                    <!--Quotation-->
+                                    <p><i class="fa fa-quote-left"></i> Sarcastic, but not always.</p>
+                                </div>
+                
+                            </div>
+                            <!--Card-->
+                
+                        </div>
+                        <!--Grid column-->
+                    </div>
+                    <a href="/about/" class="btn btn-outline-grey btn-rounded btn-lg">about us</a>
             </section>
     </div>
     <!-- End of Testimonial Bio section -->
