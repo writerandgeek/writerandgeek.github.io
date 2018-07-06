@@ -173,6 +173,8 @@ Music: - Pachyderm - Ice Cold
 
         <!--Content-->
         <div class="modal-content">
+            <form action="https://formspree.io/hello@writerandgeek.com"
+                method="POST">
 
             <!--Header-->
             <div class="modal-header special-color-dark white-text">
@@ -186,15 +188,15 @@ Music: - Pachyderm - Ice Cold
 
                 <!-- Material input name -->
                 <div class="md-form form-sm">
-                    <i class="fa fa-envelope prefix"></i>
+                    <i class="fa fa-user prefix"></i>
                     <input type="text" id="materialFormNameModalEx1" class="form-control form-control-sm">
                     <label for="materialFormNameModalEx1">Your name</label>
                 </div>
 
                 <!-- Material input email -->
                 <div class="md-form form-sm">
-                    <i class="fa fa-lock prefix"></i>
-                    <input type="password" id="materialFormEmailModalEx1" class="form-control form-control-sm">
+                    <i class="fa fa-envelope prefix"></i>
+                    <input type="email" id="materialFormEmailModalEx1" name="_replyto" class="form-control form-control-sm">
                     <label for="materialFormEmailModalEx1">Your email</label>
                 </div>
 
@@ -213,12 +215,13 @@ Music: - Pachyderm - Ice Cold
                 </div>
 
                 <div class="text-center mt-4 mb-2">
-                    <button class="btn btn-outline-grey btn-rounded">Send
+                    <button type="submit" class="btn btn-outline-grey btn-rounded">Send
                         <i class="fa fa-send ml-2"></i>
                     </button>
                 </div>
 
             </div>
+            </form>
         </div>
         <!--/.Content-->
     </div>
