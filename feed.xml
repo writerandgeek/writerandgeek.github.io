@@ -6,9 +6,28 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 11 Jul 2018 07:27:12 +0530</pubDate>
-    <lastBuildDate>Wed, 11 Jul 2018 07:27:12 +0530</lastBuildDate>
+    <pubDate>Wed, 18 Jul 2018 19:28:33 +0530</pubDate>
+    <lastBuildDate>Wed, 18 Jul 2018 19:28:33 +0530</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>An update</title>
+        <description>&lt;h1 id=&quot;an-update&quot;&gt;An update&lt;/h1&gt;
+
+&lt;p&gt;A brief update on the Writer &amp;amp; Geek Show. We have been on a sabbatical since we completed a year of podcasting. But we are using this time to improve our show and our website. We plan to come back with more episodes starting August. Stay tuned!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Shankar and Vishnu&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 14 Jul 2018 05:35:00 +0530</pubDate>
+        <link>http://localhost:4000/an-update/</link>
+        <guid isPermaLink="true">http://localhost:4000/an-update/</guid>
+        
+        
+        <category>Regular</category>
+        
+      </item>
     
       <item>
         <title>Deconstructing Formula One</title>
@@ -810,134 +829,6 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years&lt;/l
         <pubDate>Sun, 01 Apr 2018 17:20:00 +0530</pubDate>
         <link>http://localhost:4000/038-online-privacy/</link>
         <guid isPermaLink="true">http://localhost:4000/038-online-privacy/</guid>
-        
-        
-        <category>Regular</category>
-        
-      </item>
-    
-      <item>
-        <title>The Race to the South Pole</title>
-        <description>&lt;h2 id=&quot;the-race-to-the-south-pole&quot;&gt;The Race to the South Pole&lt;/h2&gt;
-
-&lt;h3 id=&quot;expedition-number-one&quot;&gt;Expedition Number One:&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Leader: Roald Amundsen&lt;/li&gt;
-  &lt;li&gt;Expedition Name: Amundsen’s South Pole Expedition&lt;/li&gt;
-  &lt;li&gt;Reached on 14 December, 1911&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;expedition-number-two&quot;&gt;Expedition Number Two:&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Leader: Robert Falcon Scott&lt;/li&gt;
-  &lt;li&gt;Expedition Name: Terra Nova Expedition&lt;/li&gt;
-  &lt;li&gt;Reached on 17 January, 1912&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;amundsens-south-pole-expedition-1910-1912&quot;&gt;Amundsen’s South Pole expedition (1910-1912)&lt;/h2&gt;
-&lt;p&gt;###Key people: (Total 19)&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Thorvald Nilsen, a navigator who would be second-in-command&lt;/li&gt;
-  &lt;li&gt;Hjalmar Fredrik Gjertsen, expedition doctor&lt;/li&gt;
-  &lt;li&gt;Kristian Prestrud, a naval officer&lt;/li&gt;
-  &lt;li&gt;Oscar Wisting, a naval gunner/amateur veterinarian*&lt;/li&gt;
-  &lt;li&gt;Olav Bjaaland, a champion skier who was a skilled carpenter and ski-maker*&lt;/li&gt;
-  &lt;li&gt;Helmer Hanssen, a skilled dog driver*&lt;/li&gt;
-  &lt;li&gt;Sverre Hassel, a skilled dog driver*&lt;/li&gt;
-  &lt;li&gt;Adolf Lindstrøm, the cook&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;timeline&quot;&gt;Timeline:&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Had planned for a North Pole expedition&lt;/li&gt;
-  &lt;li&gt;Obtained Fridtjof Nansen’s polar exploration ship, Fram&lt;/li&gt;
-  &lt;li&gt;Plan disrupted in 1909 when rival explorers, Frederick Cook and Robert E. Peary each claimed to have reached the North Pole&lt;/li&gt;
-  &lt;li&gt;He changed his focus to South Pole&lt;/li&gt;
-  &lt;li&gt;Uncertain whether he would get the support, he kept the plan to himself up to a month after leaving for the expedition&lt;/li&gt;
-  &lt;li&gt;June 1910 - Set out for the expedition with the crew thinking they are embarking on an Arctic drift&lt;/li&gt;
-  &lt;li&gt;Reveals the plan to go to Antarctica when Fram left the last port Madeira&lt;/li&gt;
-  &lt;li&gt;Telegrams Scott of his intentions to travel south&lt;/li&gt;
-  &lt;li&gt;Framheim, the Antarctic Base, at Bay of Whales on the Great Ice Barrier&lt;/li&gt;
-  &lt;li&gt;Near disaster false start in August - September (8 September)&lt;/li&gt;
-  &lt;li&gt;Proper start in 19 October, 1911&lt;/li&gt;
-  &lt;li&gt;Use of sledge dogs for trouble free travel&lt;/li&gt;
-  &lt;li&gt;Discovery of Axel Heiberg Glacier, first exploration of King Edward VII Land&lt;/li&gt;
-  &lt;li&gt;Reached South Pole on 15 December, 1911&lt;/li&gt;
-  &lt;li&gt;Reached back at Farheim on 25 January, 1912&lt;/li&gt;
-  &lt;li&gt;Total 52 sledge dogs, 11 survived the expedition&lt;/li&gt;
-  &lt;li&gt;The expedition took 99 days and 3,440 km journey&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;terra-nova-expedition-1910-1913&quot;&gt;Terra Nova Expedition (1910-1913)&lt;/h2&gt;
-&lt;h3 id=&quot;key-people-total-65&quot;&gt;Key People (Total 65)&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Edgar Evans, second-in-command&lt;/li&gt;
-  &lt;li&gt;Harry Pennell, navigator&lt;/li&gt;
-  &lt;li&gt;George Murray Levick, skiing expert&lt;/li&gt;
-  &lt;li&gt;Edward L Atkinson, skiing expert&lt;/li&gt;
-  &lt;li&gt;Henry Robertson Bowers*&lt;/li&gt;
-  &lt;li&gt;Lawrence Oates, an army captain*&lt;/li&gt;
-  &lt;li&gt;Edgar Evans, Antarctic veteran*&lt;/li&gt;
-  &lt;li&gt;Edward Wilson, chief scientist*&lt;/li&gt;
-  &lt;li&gt;George Simpson, meteorologist&lt;/li&gt;
-  &lt;li&gt;Herbert Ponting, photographer&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;timeline-1&quot;&gt;Timeline:&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;15 June, 1910 - Terra Nova sailed from Cardiff, Wales&lt;/li&gt;
-  &lt;li&gt;Scott tied up with expedition business, joined Terra Nova in South Africa after catching a faster passenger liner&lt;/li&gt;
-  &lt;li&gt;Leaves the ship in Melbourne for further business, receives letter from Amundsen&lt;/li&gt;
-  &lt;li&gt;Rejoined the ship in New Zealand with additional supplies&lt;/li&gt;
-  &lt;li&gt;Met with heavy storms and loss of supplies in the Sea&lt;/li&gt;
-  &lt;li&gt;January 1911 - Built a base at Cape Evans (named after Scott’s second-in-command)&lt;/li&gt;
-  &lt;li&gt;Campbell’s Eastern party to explore King Edward VII Land, meets Amundsen’s party&lt;/li&gt;
-  &lt;li&gt;January 1911 - Start of Depot laying with the One Ton Depay laid 48 kilometers short of its intended location&lt;/li&gt;
-  &lt;li&gt;1911 winter - Hut was separated using packing cases for “officers” and “men”&lt;/li&gt;
-  &lt;li&gt;09 February, 1911 - Campbell’s party became the Northern party and set up camp at Robertson Bay (They could not carry out experiments as per the plan and returned to base came in September 1912)&lt;/li&gt;
-  &lt;li&gt;Wester Parties - Conducted two geological expeditions&lt;/li&gt;
-  &lt;li&gt;Journey to Cape Crozier in the winter to secure eggs of emperor penguin and to experiment with food rations and equipment before the polar journey&lt;/li&gt;
-  &lt;li&gt;13 September, 1911 - South polar journey plans revealed&lt;/li&gt;
-  &lt;li&gt;24 October, 1911 - The Motor Party left the base&lt;/li&gt;
-  &lt;li&gt;01 November, 1911 - Scott and his party left the base&lt;/li&gt;
-  &lt;li&gt;21 November, 1911 - Scott’s party caught up with the Motor party&lt;/li&gt;
-  &lt;li&gt;03 January, 1912 - Scott chose his party of five (instead of four) - Scott, Wilson, Oates, Bowers and Edgar Evans&lt;/li&gt;
-  &lt;li&gt;09 January, 1912 - Passed Shackleton’s furthest point&lt;/li&gt;
-  &lt;li&gt;16 January, 1912 - Saw Amundsen’s black flag&lt;/li&gt;
-  &lt;li&gt;17 January, 1912 - Reached South Pole (Scott’s entry - “The Pole. Yes, but under very different circumstances from those expected … Great God! This is an awful place and terrible enough for us to have laboured to it without the reward of priority. Well, it is something to have got here”)&lt;/li&gt;
-  &lt;li&gt;18 January, 1912 - Finds Amundsen’s tent, supplies and letter stating they had reached on 16 December, 1911&lt;/li&gt;
-  &lt;li&gt;Returning homewards - Edgar Evans suffering and Lawrence Oates severe frostbite&lt;/li&gt;
-  &lt;li&gt;17 February, 1912 - Edgar Evans dies due to head injuries, frostbite and a hand injury which failed to heal&lt;/li&gt;
-  &lt;li&gt;Reached the meet point, but could not find the dog teams, temperature dropped sharply, and the fuel supplies were meagre&lt;/li&gt;
-  &lt;li&gt;Low temperature and radiation caused poor surface to pull the sledge, lack of wind made the temperatures even worse, and Oates frostbite reduced the daily average of distance covered to three to five miles down from fifteen&lt;/li&gt;
-  &lt;li&gt;10 March, 1912 -  It became evident that the dog teams where not coming&lt;/li&gt;
-  &lt;li&gt;Oates sacrifices himself by walking out of his tent towards his death. Last words, “I am just going outside and may be some time.”&lt;/li&gt;
-  &lt;li&gt;20 March, 1912 - Reached 11 miles near to the One Ton Depot but a blizzard stopped them in their tracks&lt;/li&gt;
-  &lt;li&gt;29 March, 1912 - Presumed date of their death and Scott’s last entry - “Every day we have been ready to start for our depot 11 miles away, but outside the door of the tent it remains a scene of whirling drift. I do not think we can hope for any better things now. We shall stick it out to the end, but we are getting weaker, of course, and the end cannot be far. It seems a pity but I do not think I can write more. R. Scott. Last entry. For God’s sake look after our people.”&lt;/li&gt;
-  &lt;li&gt;29 October 1912 - Search party sent to find Scott&lt;/li&gt;
-  &lt;li&gt;12 November 1912 - The tent containing Scott, Wilson, and Bowers found 11 miles south of One Ton Depot&lt;/li&gt;
-  &lt;li&gt;10 February, 1913 - Edward Atkinson and Lieutenant Harry Pennell reached the ports of New Zealand and relayed a message about the fate of Scott’s party.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;aftermath&quot;&gt;Aftermath&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Scott hailed a tragic hero which overshadowed Amundsen’s achievements&lt;/li&gt;
-  &lt;li&gt;Critics questioned the leadership abilities of Scott&lt;/li&gt;
-  &lt;li&gt;The fate of the group said to be the result of many “ifs” with the weather playing the major part&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;notes&quot;&gt;Notes&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;Asterisk (*) next to names means those who reached the South Pole&lt;/li&gt;
-  &lt;li&gt;Amundsen received help at Argentina from Peter “Don Pedro” Christophersen, a Norwegian expatriate whose brother was Norway’s Minister in Buenos Aires&lt;/li&gt;
-  &lt;li&gt;The Musafir Stories Episode mentionedin the beginning: &lt;a href=&quot;https://audioboom.com/posts/6739093-tms-specials-conquering-mt-everest-with-satyarup-siddhanta&quot; target=&quot;blank&quot;&gt;TMS Specials - Conquering Mt. Everest with Satyarup Siddhanta&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://pixabay.com/en/emperor-penguins-antarctic-life-429127/&quot; target=&quot;blank&quot;&gt;Pixabay&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 25 Mar 2018 17:20:00 +0530</pubDate>
-        <link>http://localhost:4000/037-race-to-south-pole/</link>
-        <guid isPermaLink="true">http://localhost:4000/037-race-to-south-pole/</guid>
         
         
         <category>Regular</category>
