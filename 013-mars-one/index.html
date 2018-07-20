@@ -42,6 +42,8 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
     <!-- Material Design Bootstrap -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.5.4/css/mdb.min.css" rel="stylesheet">
+
+    
     <link rel="stylesheet" href="/css/main.css" media="screen,projection">
 
       <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -377,10 +379,37 @@
 <script src="/js/media.js"></script>
 <script src="/js/timejump.js"></script>
 <script src="/js/smoothscroll.js"></script>
+<script src="/js/owl.js"></script>
 <script>
     $(function () {
         $('[data-toggle="tooltip"]').tooltip()
         $('[data-toggle="popover"]').popover();
+
+        // initialise owl carousel
+        $(".owl-carousel").owlCarousel({
+            loop:true,
+            items: 3,
+            autoplay: true,
+            autoplayTimeout: 5000,
+            autoplayHoverPause: false,
+            startPosition: 1,
+            center: true,
+            margin:10,
+            nav:true,
+            responsiveClass:true,
+            // responsive:{
+            //     0:{
+            //         items:1
+            //     },
+            //     600:{
+            //         items:3
+            //     },
+            //     1000:{
+            //         items:5
+            //     }
+            // }
+        });
+        
     });
 </script>
 <script>

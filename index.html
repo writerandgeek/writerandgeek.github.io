@@ -42,6 +42,8 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
     <!-- Material Design Bootstrap -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.5.4/css/mdb.min.css" rel="stylesheet">
+
+    
     <link rel="stylesheet" href="/css/main.css" media="screen,projection">
 
       <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -530,12 +532,39 @@
 <div class="row">
         <section class="testimonial col-md-10 offset-md-1">
             <h1>Hi there!</h1>
-            <h3 class="subheading_page">Few excerpts awesome things our friends say about us...</h3>            
+            <h3 class="subheading_page">Few excerpts from awesome things our friends say about us...</h3>  
+            
+            <!-- testimonials -->
+            <div class="owl-carousel owl-theme">
+                    <div> 
+                        <blockquote class="testimonial-quote">Love the chemistry between the brothers! The discussions, albeit freewheeling, are on topics well researched! Kudos! <br> 
+                        &mdash; <a href="https://twitter.com/MusafirStories" target="_blank">Saif Omar, (@MusafirStories)</a>
+                        </blockquote>
+                    </div>
+                    <div> 
+                        <blockquote class="testimonial-quote">Well researched materials delivered with characteristic humour is what I love about Writer &amp; Geek. Their shared curiosity with the listeners is such that the pursuit of knowledge becomes a combined, comradely effort.<br>
+                        &mdash; Thinkal Hansen</blockquote>
+                    </div>
+                    <div>
+                        <blockquote class="testimonial-quote">I forgot for a while that I was riding through the Bangalore traffic (listening to the show). Imma binge the previous episodes now. Keep up the good work. 👍 <br> 
+                        &mdash; <a href="https://twitter.com/bebhuvan/status/1019245271207895040?ref_src=twsrc%5Etfw" target="_blank">Bhuvanesh (@bebhuvan)</a></blockquote> 
+                    </div>
+                    <div> 
+                        <blockquote class="testimonial-quote">Writer & Geek Show serves as my weekly dose of knowledge. Every Monday morning commute to work is made a little more bearable because of it.<br>
+                        &mdash; Akhil Paulson</blockquote>
+                    </div>
+                    <div>
+                        <blockquote class="testimonial-quote">What makes Writer & Geek Show beautiful is that it's not all about the research, it is how they spice up the topic of discussion with their own views and experiences.<br>
+                        &mdash; Indrajith K R</blockquote>
+                    </div>
+                </div>
+
+                <!--/testimonials-->
             
 
             
 
-            <div class="row">
+            <!-- <div class="row">
                 <div class="col-6">
                     <blockquote class="testimonial-quote">
                             Love the chemistry between the brothers! The discussions, albeit freewheeling, are on topics well researched! Kudos! <br> 
@@ -560,9 +589,8 @@
                     </blockquote>
                 </div>
                 
-            </div>
+            </div> -->
 
-            <!-- end of the testimonials -->
 
             </section>
 
@@ -682,10 +710,37 @@
 <script src="/js/media.js"></script>
 <script src="/js/timejump.js"></script>
 <script src="/js/smoothscroll.js"></script>
+<script src="/js/owl.js"></script>
 <script>
     $(function () {
         $('[data-toggle="tooltip"]').tooltip()
         $('[data-toggle="popover"]').popover();
+
+        // initialise owl carousel
+        $(".owl-carousel").owlCarousel({
+            loop:true,
+            items: 3,
+            autoplay: true,
+            autoplayTimeout: 5000,
+            autoplayHoverPause: false,
+            startPosition: 1,
+            center: true,
+            margin:10,
+            nav:true,
+            responsiveClass:true,
+            // responsive:{
+            //     0:{
+            //         items:1
+            //     },
+            //     600:{
+            //         items:3
+            //     },
+            //     1000:{
+            //         items:5
+            //     }
+            // }
+        });
+        
     });
 </script>
 <script>

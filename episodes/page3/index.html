@@ -43,6 +43,8 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
     <!-- Material Design Bootstrap -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.5.4/css/mdb.min.css" rel="stylesheet">
+
+    
     <link rel="stylesheet" href="/css/main.css" media="screen,projection">
 
       <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -487,50 +489,55 @@ Image: Pixabay
  
 
 <!-- pagination -->
+<div class="row">
+        <div class="col-md-8 offset-md-3 post-meta hidden-xs hidden-sm hidden-md">
+                
+                <nav aria-label="Page navigation">
+                    <ul class="pagination pagination-sm pg-dark">
+                        
+                        
+                        <li class="page-item">
+                            <a class="page-link" href="/episodes/page2/" aria-label="Previous">
+                              <span aria-hidden="true">«</span>
+                              <span class="sr-only">Previous</span>
+                            </a>
+                        </li>
+                        
+                        
+                        
+                            
+                                <li class="page-item"><a class="page-link" href="/episodes/">1</a></li>
+                            
+                       
+                            
+                                <li class="page-item"><a class="page-link" href="/episodes/page2/">2</a></li>
+                            
+                       
+                            
+                               <li class="page-item active"><a class="page-link" href="#">3 <span class="sr-only">(current)</span></a></li>
+                            
+                       
+                            
+                                <li class="page-item"><a class="page-link" href="/episodes/page4/">4</a></li>
+                            
+                       
+                            
+                                <li class="page-item"><a class="page-link" href="/episodes/page5/">5</a></li>
+                            
+                       
+                       
+                        <li class="page-item">
+                        <a class="page-link" href="/episodes/page4/" aria-label="Next">
+                            <span aria-hidden="true">»</span>
+                        </a>
+                        </li>
+                        
+                    </ul>
+                </nav>
+                 
+        </div>
+</div>
 
-<nav aria-label="Page navigation">
-    <ul class="pagination pagination-sm pg-dark">
-        
-        
-        <li class="page-item">
-            <a class="page-link" href="/episodes/page2/" aria-label="Previous">
-              <span aria-hidden="true">«</span>
-              <span class="sr-only">Previous</span>
-            </a>
-        </li>
-        
-        
-        
-            
-                <li class="page-item"><a class="page-link" href="/episodes/">1</a></li>
-            
-       
-            
-                <li class="page-item"><a class="page-link" href="/episodes/page2/">2</a></li>
-            
-       
-            
-               <li class="page-item active"><a class="page-link" href="#">3 <span class="sr-only">(current)</span></a></li>
-            
-       
-            
-                <li class="page-item"><a class="page-link" href="/episodes/page4/">4</a></li>
-            
-       
-            
-                <li class="page-item"><a class="page-link" href="/episodes/page5/">5</a></li>
-            
-       
-       
-        <li class="page-item">
-        <a class="page-link" href="/episodes/page4/" aria-label="Next">
-            <span aria-hidden="true">»</span>
-        </a>
-        </li>
-        
-    </ul>
-</nav>
- 
 <!-- end pagination -->
             </div>
         </article>
@@ -584,10 +591,37 @@ Image: Pixabay
 <script src="/js/media.js"></script>
 <script src="/js/timejump.js"></script>
 <script src="/js/smoothscroll.js"></script>
+<script src="/js/owl.js"></script>
 <script>
     $(function () {
         $('[data-toggle="tooltip"]').tooltip()
         $('[data-toggle="popover"]').popover();
+
+        // initialise owl carousel
+        $(".owl-carousel").owlCarousel({
+            loop:true,
+            items: 3,
+            autoplay: true,
+            autoplayTimeout: 5000,
+            autoplayHoverPause: false,
+            startPosition: 1,
+            center: true,
+            margin:10,
+            nav:true,
+            responsiveClass:true,
+            // responsive:{
+            //     0:{
+            //         items:1
+            //     },
+            //     600:{
+            //         items:3
+            //     },
+            //     1000:{
+            //         items:5
+            //     }
+            // }
+        });
+        
     });
 </script>
 <script>
