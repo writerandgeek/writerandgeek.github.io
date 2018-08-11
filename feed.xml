@@ -6,9 +6,63 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Aug 2018 00:39:41 +0530</pubDate>
-    <lastBuildDate>Tue, 07 Aug 2018 00:39:41 +0530</lastBuildDate>
+    <pubDate>Sun, 12 Aug 2018 00:15:33 +0530</pubDate>
+    <lastBuildDate>Sun, 12 Aug 2018 00:15:33 +0530</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Jet Engines</title>
+        <description>&lt;h3 id=&quot;love-em-planes-️&quot;&gt;Love ‘em planes ✈️&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Is a type of internal combustion engine that produces thrust based on a fast moving discharge of hot gases.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;history&quot;&gt;History&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Hero of Alexandria built Aeopile which was the earliest for of jet engine dating back to 1&lt;sup&gt;st&lt;/sup&gt; century A.D.&lt;/li&gt;
+  &lt;li&gt;It was a steam turbine which rotated when a central water container is heated. Much like a lawn sprinkler.&lt;/li&gt;
+  &lt;li&gt;Was more of a curiousity thing and did not have practical application.&lt;/li&gt;
+  &lt;li&gt;Chinese invented rocket fireworks in the 13&lt;sup&gt;th&lt;/sup&gt; century, but since these were inefficient, did not develop for few more centuries.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;the-need&quot;&gt;The need&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;The propeller driven airplanes had their limitations in terms of max speed that could be achieved.&lt;/li&gt;
+  &lt;li&gt;Pressure build up while approaching sound barrier caused many of these planes to crash.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;key-components&quot;&gt;Key components&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Air intake&lt;/li&gt;
+  &lt;li&gt;Compressor&lt;/li&gt;
+  &lt;li&gt;Gas turbine&lt;/li&gt;
+  &lt;li&gt;Combustion chamber&lt;/li&gt;
+  &lt;li&gt;Exhaust nozzle&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;types-of-jet-engines&quot;&gt;Types of Jet Engines&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Turbojet&lt;/strong&gt;: Basically a gas turbine that compresser air through an inlet and compressor. Fuel is mixed with th compressed air in the combustion chamber and the exhaust gases propel the engine forward and also run the compressor. All the ir passes through the inlet into the compressor, the combustion chamber and then through the turbines before escaping out.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Turboprop&lt;/strong&gt;: Turboprop uses the exhaust to mainly drive a propeller that provides the thrust to move the engine forward. In this type of engine, the jet thrust is augmented by the propeller. They perform extremely well at low speeds. Another type of turboprop called turboshaft utilises all the power to run the propeller and produces almost no jet exhaust. This mainly used to power helicopters.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Turbofan&lt;/strong&gt;: Turbofan is essentially a turbojet with a giant fan in the front of the compressor. The fan draws more ait and while a part of it enters the inlet, the rest of it goes around the engine providing additional thrust in a way similar to a turboprop. This is the way more efficient than a turbojet. The fan allows greater thrust at low speeds. In passenger jets, the engines have a biger fan and helps in reduced noise and increased efficiency whereas in military aircraft where flight is usually supersonic and noise isn’t a factor, turbofans with smaller fans are used to reduce drag and increase the menouverability of the craft.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ramjet&lt;/strong&gt;: Ramjet does not use a compressor instead depends on the air pressure to build up at the inlet duct. As a result, a ramject cannot work in subsonic speeds and requires it to be accelerated to supersonic speeds by a turbojet or a rocket engine. Practical applications are in missiles and unmanned vehicles.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;shoutout&quot;&gt;Shoutout&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.storiyoh.com/&quot; target=&quot;_blank&quot;&gt;Storiyoh&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://podhead.co/&quot; target=&quot;_blank&quot;&gt;Podhead&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 12 Aug 2018 05:35:00 +0530</pubDate>
+        <link>http://localhost:4000/048-jet-engines/</link>
+        <guid isPermaLink="true">http://localhost:4000/048-jet-engines/</guid>
+        
+        
+        <category>Regular</category>
+        
+      </item>
     
       <item>
         <title>Pizza</title>
@@ -747,116 +801,6 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years&lt;/l
         <pubDate>Sun, 15 Apr 2018 17:20:00 +0530</pubDate>
         <link>http://localhost:4000/040-serial-killer-dc-sniper/</link>
         <guid isPermaLink="true">http://localhost:4000/040-serial-killer-dc-sniper/</guid>
-        
-        
-        <category>Regular</category>
-        
-      </item>
-    
-      <item>
-        <title>Why do the continents move</title>
-        <description>&lt;h1 id=&quot;continental-drift&quot;&gt;Continental Drift&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The idea first put forward by Abraham Ortelius in 1596 and also by Francis Bacon in 1620 mostly due to the apparent similarities in the outlines of the continents. This was the period when maps were surfacing and gave a clearer view of continents.&lt;/li&gt;
-  &lt;li&gt;Alfred Wegener further developed it in 1912. Stated the continents are moving away from poles due to the bulge towards the equator. Though these forces exist, they are too weak to push the continental plates.&lt;/li&gt;
-  &lt;li&gt;Wagner suggested that continents once were together and then they started moving apart.&lt;/li&gt;
-  &lt;li&gt;Supercontinent was called Pangaea which meant entire Earth during the Permian period around 240 million years ago.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;tharp-hezeen-map&quot;&gt;Tharp-Hezeen Map&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;In 1977, Marie Tharp and Bruce Hazeen along with artist Heinrich Berann produced the first World Ocean Floor Panorama.&lt;/li&gt;
-  &lt;li&gt;Tharp worked out of Lamont Geological Observatory at Columbia University.&lt;/li&gt;
-  &lt;li&gt;Started using sonar pings to gather data from ocean floor since 1952 to map the ocean floor.&lt;/li&gt;
-  &lt;li&gt;Discovered the rift valley down the centre of Atlantic Ocean.&lt;/li&gt;
-  &lt;li&gt;The rift extended for more than 40,000 miles and was a proof for the theory of continental drift, which was unpopular in the US at the time.&lt;/li&gt;
-  &lt;li&gt;The existence of the rift confirmed in 1959 by Jacques Costeau in New York where he screened a film of the rift valley that he had filmed.&lt;/li&gt;
-  &lt;li&gt;Tharp’s hand-drawn diagrams encouraged scientists from US, UK, Canada and other nations to write papers on plate tectonics.&lt;/li&gt;
-  &lt;li&gt;NatGeo didn’t care about a project to bring all the maps together so they sought help from US Naval Research.&lt;/li&gt;
-  &lt;li&gt;Hazeen died in 1977 and rest of the mapping project was never completed.&lt;/li&gt;
-  &lt;li&gt;Only 10-15% of the entire ocean has been mapped and Tharp-Hazeen maps are still relevant.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;evidence&quot;&gt;Evidence:&lt;/h3&gt;
-
-&lt;p&gt;&lt;a title=&quot;By Osvaldocangaspadilla (Own work) [Public domain], via Wikimedia Commons&quot; href=&quot;https://commons.wikimedia.org/wiki/File%3ASnider-Pellegrini_Wegener_fossil_map.svg&quot;&gt;&lt;img width=&quot;512&quot; alt=&quot;Snider-Pellegrini Wegener fossil map&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Snider-Pellegrini_Wegener_fossil_map.svg/512px-Snider-Pellegrini_Wegener_fossil_map.svg.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Apparent fit of continents&lt;/li&gt;
-  &lt;li&gt;Fossil Correlation:
-    &lt;ul&gt;
-      &lt;li&gt;Mesasaurus: fossils are found only in the easter coast of South America and Western Coast of Africa&lt;/li&gt;
-      &lt;li&gt;Cynognathus: fossils found across Africa and South America&lt;/li&gt;
-      &lt;li&gt;Lystrosaurus: fossil across Africa, India and Antartica&lt;/li&gt;
-      &lt;li&gt;Glossopteris: fossil across all the southern part of continents including South India.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Rocks Correlation
-    &lt;ul&gt;
-      &lt;li&gt;Mountain ranges in the eastern US and Western Europe match up&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Paleo Climate data:
-    &lt;ul&gt;
-      &lt;li&gt;Glacial striations.&lt;/li&gt;
-      &lt;li&gt;Bituminous coal: Made from compacted plant remains. Forms only in the tropical climate.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Could not explain what caused the drift.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;plate-tectonics&quot;&gt;Plate Tectonics&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Mid 1900s, built on Wegner’s theory&lt;/li&gt;
-  &lt;li&gt;The lithosphere is broken up into seven very large continental and ocean-sized plates, six or seven medium-sized regional plates, and several small ones. They move relative to each other.&lt;/li&gt;
-  &lt;li&gt;Plates float on asthenosphere beneath the Mantle which comes under the crust.&lt;/li&gt;
-  &lt;li&gt;Continental crust is made of Granite and is thicker and less denser about 2.7 g per cubic cm. Typically upto 40km thick.&lt;/li&gt;
-  &lt;li&gt;Oceanic crust is thin and dense made of Basalt.&lt;/li&gt;
-  &lt;li&gt;The crust sits on top of Mantle, very rich in Magnesium and iron bearing silicate minerals.&lt;/li&gt;
-  &lt;li&gt;Crust and Mantle make up lithosphere. This floats on asthenosphere.&lt;/li&gt;
-  &lt;li&gt;Asthenosphere moves due to convection.&lt;/li&gt;
-  &lt;li&gt;Boundary between crust and mantle is called Mohorovičić discontinuity or Moho after Andrija Mohorovičić. These are defined by seismic studies.&lt;/li&gt;
-  &lt;li&gt;Lithosphere includes crust and uppper mantle just below Moho.&lt;/li&gt;
-  &lt;li&gt;Heat below the surface causes mantle to lose its rigidity around 100km below the surface. This is the begining of Asthenosphere.&lt;/li&gt;
-  &lt;li&gt;At 2900km mantle gives way to outer core and at 5100km, inner core starts.&lt;/li&gt;
-  &lt;li&gt;Inner core is further divided into Outer-Inner Core (OIC) and Inner-Inner Core (IIC) distiguished by their North-South and East-West polarity of iron crystals respectively.&lt;/li&gt;
-  &lt;li&gt;Earthquakes and volcanoes happen in the region where plates meet, called fault lines.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;what-happens-at-the-plate-boundaries&quot;&gt;What happens at the plate boundaries?&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Divergent Margins:&lt;/strong&gt; Plates moving apart at divergent plate boundary releases pressure which melts the Mantle underneath. Magma created as a result of this moves upwards and cools just below the surface creating new crust. Hence these are also called constructive margins.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Continental Rifting:&lt;/strong&gt; Magma rising up causes  the lithosphere to stretch and lift up. This results in rift on the surface of continents. The rift continues until the crust become thin and a new ocean is formed. The rising magma cools down and since it is basalting, forms the basin for the new ocean.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Seafloor Spreading:&lt;/strong&gt; As magma keeps rising, the sea floor starts to spread. New rocks are created on the ocean floor and hence the age of rocks on the seabed are much less than that found on continents.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Convegent Margin:&lt;/strong&gt; Since Earth has a finite surface area, the creation of new crust is balanced out by destructive plate margins or Convergent Margins where the crust sinks into the mantle. When two plates meet, the older one usually subducts below the younger warmer plate. If the convergence happens between oceanic and continental plates, the continental plate being less denser and hence more bouyant, stays on top and the oceanic plate subducts beneath. This results on continental crusts being preserved and oceanic crust being regenerated every few million years. Hence the fossils of deep sea creatures are sometimes found on the surface of continents. When the collision happens between two continental plates, results in the creation of mountain ranges like the Himalayas which formed when the Indian plate collided with the Eurasian plate and eliminated the ocean in between.&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Subduction Zones:&lt;/strong&gt; Subduction happens when lithosphere of around 100km thickness decends into the mantle. This creates earthquake zones along the zone called the &lt;strong&gt;Wadati-Benioff&lt;/strong&gt; zone. Places like Japan lie on these zones and are prone to earthquakes.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Transform boundary: plates slide against one another. Earthquakes happen here. San Andreas fault in California.&lt;/li&gt;
-  &lt;li&gt;Convergent boundaries: Plates collide.
-    &lt;ul&gt;
-      &lt;li&gt;Subduction zone: Continental crust collides with oceanic crust resulting in the sinking of oceaning crust beneath continental crust da ue to the higher density of oceanic crust and results in melting of the crust and forms active volcanoes. This results in earthquakes, volcanoes and deep trenches. Andes mountains.&lt;/li&gt;
-      &lt;li&gt;Island Arc: Oceanic crust with Oceanic crust. One of the crust sinks, normally the older rock. Results in volcanoes, trenches.&lt;/li&gt;
-      &lt;li&gt;Collision zone: Continental to continentalThe The . Himalayas.
-  The - Island of Cyprus formed athe t boundary of African and Eurasian plates.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Divergent boundaries: Plates move away from each other.
-    &lt;ul&gt;
-      &lt;li&gt;On land:  Rift zone, rock is ripped apart and normally found in the ocean and particularly in East Africa. Active volcanoes and minor earthquakes.&lt;/li&gt;
-      &lt;li&gt;Mid ocean: Creates alternating bands of magnetism because of change in Earth’s magentism which is a proof for divergance. Mid Atlantic ridge is an example.&lt;/li&gt;
-      &lt;li&gt;Iceland is geologically active mainly due to being on the divergent plates.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Image: &lt;a href=&quot;https://pixabay.com/en/planet-spherical-map-sphere-3096675/&quot;&gt;pixabay&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 08 Apr 2018 17:20:00 +0530</pubDate>
-        <link>http://localhost:4000/039-continental-drift/</link>
-        <guid isPermaLink="true">http://localhost:4000/039-continental-drift/</guid>
         
         
         <category>Regular</category>
