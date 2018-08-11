@@ -6,16 +6,14 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 12 Aug 2018 00:19:08 +0530</pubDate>
-    <lastBuildDate>Sun, 12 Aug 2018 00:19:08 +0530</lastBuildDate>
+    <pubDate>Sun, 12 Aug 2018 00:21:45 +0530</pubDate>
+    <lastBuildDate>Sun, 12 Aug 2018 00:21:45 +0530</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
         <title>Jet Engines</title>
         <description>&lt;h3 id=&quot;love-em-planes-️&quot;&gt;Love ‘em planes ✈️&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Is a type of internal combustion engine that produces thrust based on a fast moving discharge of hot gases.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Jet engine is a type of internal combustion engine that produces thrust based on a fast moving discharge of hot gases, widely used on airplanes.&lt;/p&gt;
 
 &lt;h3 id=&quot;history&quot;&gt;History&lt;/h3&gt;
 &lt;ul&gt;
