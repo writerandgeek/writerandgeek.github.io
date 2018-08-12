@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 12 Aug 2018 00:21:45 +0530</pubDate>
-    <lastBuildDate>Sun, 12 Aug 2018 00:21:45 +0530</lastBuildDate>
+    <pubDate>Sun, 12 Aug 2018 07:47:46 +0530</pubDate>
+    <lastBuildDate>Sun, 12 Aug 2018 07:47:46 +0530</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -50,7 +50,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.storiyoh.com/&quot; target=&quot;_blank&quot;&gt;Storiyoh&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://podhead.co/&quot; target=&quot;_blank&quot;&gt;Podhead&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://podhead.co/&quot; target=&quot;_blank&quot;&gt;Podhead&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 12 Aug 2018 05:35:00 +0530</pubDate>
