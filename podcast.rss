@@ -10,8 +10,8 @@
 		<managingEditor>hello@writerandgeek.com</managingEditor>
 		<webMaster>hello@writerandgeek.com</webMaster>
 		<copyright>2018 - Writer &amp; Geek Show</copyright>
-		<pubDate>Wed, 15 Aug 2018 00:58:16 +0530</pubDate>
-		<lastBuildDate>Wed, 15 Aug 2018 00:58:16 +0530</lastBuildDate>
+		<pubDate>Wed, 15 Aug 2018 01:01:52 +0530</pubDate>
+		<lastBuildDate>Wed, 15 Aug 2018 01:01:52 +0530</lastBuildDate>
 		<image>
 			<link>http://localhost:4000</link>
 			<url>http://res.cloudinary.com/writerandgeek/image/upload/v1506998325/wnglogo.jpg</url>
@@ -40,7 +40,7 @@
 			<item>
 				<title>Bonus - A request</title>
 				<link>http://localhost:4000/a-request/</link>
-				<pubDate>Wed, 15 Aug 2018 06:25:00 +0530</pubDate>
+				<pubDate>Wed, 15 Aug 2018 05:35:00 +0530</pubDate>
 				<description>We ask you for something.</description>
 				<guid isPermaLink="true">http://localhost:4000/a-request/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/4c641477.mp3" length="5877988" type="audio/mp3"/>
