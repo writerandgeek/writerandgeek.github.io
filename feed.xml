@@ -6,9 +6,40 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Aug 2018 01:02:08 +0530</pubDate>
-    <lastBuildDate>Mon, 20 Aug 2018 01:02:08 +0530</lastBuildDate>
+    <pubDate>Sun, 26 Aug 2018 23:40:11 +0530</pubDate>
+    <lastBuildDate>Sun, 26 Aug 2018 23:40:11 +0530</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Cryptography ft. Rupen Paul</title>
+        <description>&lt;h3 id=&quot;thats-50&quot;&gt;That’s 50!&lt;/h3&gt;
+&lt;p&gt;In the 50&lt;sup&gt;th&lt;/sup&gt; episode, we sit down and talk with Rupen Paul, the star stand up comedian and upcoming podcaster about cryptography. This was a pleasant evening with rain, coffee and snacks. Occassional chewing noises are to be expected.&lt;/p&gt;
+
+&lt;p&gt;Sit back and enjoy our version of cryptography!&lt;/p&gt;
+
+&lt;h3 id=&quot;rupens-right-room&quot;&gt;Rupen’s Right Room&lt;/h3&gt;
+&lt;p&gt;Rupen is also the host of an amazing podcast and we think that you should definitely check it out!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://audioboom.com/channel/the-right-room&quot; target=&quot;_blank&quot;&gt;The Right Room Podcast&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;books-mentioned&quot;&gt;Books mentioned&lt;/h3&gt;
+&lt;p&gt;Please note that these are affiliate links where we get paid a percentage for each purchase and this helps us in the production of the show. Thanks!&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2Lv08U9&quot; target=&quot;_blank&quot;&gt;Enigma by Robert Harris&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2Lxg7RC&quot; target=&quot;_blank&quot;&gt;Digital Fortress by Dan Brown&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2PF4z1G&quot; target=&quot;_blank&quot;&gt;Sherlock Holmes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a style=&quot;background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &amp;quot;San Francisco&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Ubuntu, Roboto, Noto, &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px&quot; href=&quot;https://unsplash.com/@mr_williams_photography?utm_medium=referral&amp;amp;utm_campaign=photographer-credit&amp;amp;utm_content=creditBadge&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; title=&quot;Download free do whatever you want high-resolution photos from Micah Williams&quot;&gt;&lt;span style=&quot;display:inline-block;padding:2px 3px&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; style=&quot;height:12px;width:auto;position:relative;vertical-align:middle;top:-1px;fill:white&quot; viewBox=&quot;0 0 32 32&quot;&gt;&lt;title&gt;unsplash-logo&lt;/title&gt;&lt;path d=&quot;M20.8 18.1c0 2.7-2.2 4.8-4.8 4.8s-4.8-2.1-4.8-4.8c0-2.7 2.2-4.8 4.8-4.8 2.7.1 4.8 2.2 4.8 4.8zm11.2-7.4v14.9c0 2.3-1.9 4.3-4.3 4.3h-23.4c-2.4 0-4.3-1.9-4.3-4.3v-15c0-2.3 1.9-4.3 4.3-4.3h3.7l.8-2.3c.4-1.1 1.7-2 2.9-2h8.6c1.2 0 2.5.9 2.9 2l.8 2.4h3.7c2.4 0 4.3 1.9 4.3 4.3zm-8.6 7.5c0-4.1-3.3-7.5-7.5-7.5-4.1 0-7.5 3.4-7.5 7.5s3.3 7.5 7.5 7.5c4.2-.1 7.5-3.4 7.5-7.5z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;&lt;span style=&quot;display:inline-block;padding:2px 3px&quot;&gt;Micah Williams&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 26 Aug 2018 05:35:00 +0530</pubDate>
+        <link>http://localhost:4000/050-cryptography/</link>
+        <guid isPermaLink="true">http://localhost:4000/050-cryptography/</guid>
+        
+        
+        <category>Regular</category>
+        
+      </item>
     
       <item>
         <title>An update on the flood situation</title>
@@ -525,23 +556,6 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years&lt;/l
         <pubDate>Sun, 20 May 2018 23:20:00 +0530</pubDate>
         <link>http://localhost:4000/044-birth-control/</link>
         <guid isPermaLink="true">http://localhost:4000/044-birth-control/</guid>
-        
-        
-        <category>Regular</category>
-        
-      </item>
-    
-      <item>
-        <title>Beer Talk: Why learn history?</title>
-        <description>&lt;h2 id=&quot;why-learning-history-is-important&quot;&gt;Why learning history is important&lt;/h2&gt;
-
-&lt;p&gt;In this episode, we talk about the importance of history and why we should learn. We also take a look at how history is taught and why there is a need to reform it with the use of current technologies.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8eIvGtn1NAU&quot; target=&quot;_blank&quot;&gt;Thomas Ketchell’s talk&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 13 May 2018 23:20:00 +0530</pubDate>
-        <link>http://localhost:4000/043-why-history/</link>
-        <guid isPermaLink="true">http://localhost:4000/043-why-history/</guid>
         
         
         <category>Regular</category>
