@@ -3,24 +3,24 @@
 	<channel>
 		<atom:link href="http://localhost:4000/podcast.rss" rel="self" type="application/rss+xml" />
 		<title>Writer &amp; Geek Show</title>
-		<description>A podcast on Culture, History, Science, Tech and Productivity tips.
+		<description>We are Writer &amp; Geek, we make our listeners get excited about boring stuff one episode at a time. Writer and Geek Show is a science and tech podcast and we love geeking about tech, history, science, music and any other topic they can think of. In this show, we discuss a variety of topics and ramble on and on about them.
 </description>
 		<link>http://localhost:4000</link>
 		<language>en</language>
 		<managingEditor>hello@writerandgeek.com</managingEditor>
 		<webMaster>hello@writerandgeek.com</webMaster>
 		<copyright>2018 - Writer &amp; Geek Show</copyright>
-		<pubDate>Mon, 10 Sep 2018 18:38:36 +0530</pubDate>
-		<lastBuildDate>Mon, 10 Sep 2018 18:38:36 +0530</lastBuildDate>
+		<pubDate>Mon, 10 Sep 2018 20:49:43 +0530</pubDate>
+		<lastBuildDate>Mon, 10 Sep 2018 20:49:43 +0530</lastBuildDate>
 		<image>
 			<link>http://localhost:4000</link>
 			<url>http://res.cloudinary.com/writerandgeek/image/upload/v1506998325/wnglogo.jpg</url>
 			<title>Writer &amp; Geek Show</title>
 		</image>
-		<itunes:subtitle>A podcast on Culture, History, Science, Tech and Productivity tips.
+		<itunes:subtitle>We are Writer &amp; Geek, we make our listeners get excited about boring stuff one episode at a time. Writer and Geek Show is a science and tech podcast and we love geeking about tech, history, science, music and any other topic they can think of. In this show, we discuss a variety of topics and ramble on and on about them.
 </itunes:subtitle>
 		<itunes:author>Vishnu &amp; Shankar</itunes:author>
-		<itunes:summary>A podcast on Culture, History, Science, Tech and Productivity tips.
+		<itunes:summary>We are Writer &amp; Geek, we make our listeners get excited about boring stuff one episode at a time. Writer and Geek Show is a science and tech podcast and we love geeking about tech, history, science, music and any other topic they can think of. In this show, we discuss a variety of topics and ramble on and on about them.
 </itunes:summary>
 		<itunes:keywords>Tech, Geek, Writing, Lifestyle, Music</itunes:keywords>
 		<itunes:owner>
