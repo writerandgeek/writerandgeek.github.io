@@ -6,12 +6,12 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Sep 2018 10:05:23 +0530</pubDate>
-    <lastBuildDate>Mon, 10 Sep 2018 10:05:23 +0530</lastBuildDate>
+    <pubDate>Mon, 10 Sep 2018 11:57:02 +0530</pubDate>
+    <lastBuildDate>Mon, 10 Sep 2018 11:57:02 +0530</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
-        <title>Yummilicious Ice-cream</title>
+        <title>Ice-cream</title>
         <description>&lt;h3 id=&quot;ice-and-cream&quot;&gt;Ice and cream&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;No introduction required.&lt;/li&gt;
