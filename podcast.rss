@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xml:lang="en">
 	<channel>
-		<atom:link href="http://localhost:4000/podcast.rss" rel="self" type="application/rss+xml" />
+		<atom:link href="https://writerandgeek.com/podcast.rss" rel="self" type="application/rss+xml" />
 		<title>Writer &amp; Geek Show</title>
 		<description>We are Writer &amp; Geek, we make our listeners get excited about boring stuff one episode at a time. Writer and Geek Show is a science and tech podcast and we love geeking about tech, history, science, music and any other topic they can think of. In this show, we discuss a variety of topics and ramble on and on about them.
 </description>
-		<link>http://localhost:4000</link>
+		<link>https://writerandgeek.com</link>
 		<language>en</language>
 		<managingEditor>hello@writerandgeek.com</managingEditor>
 		<webMaster>hello@writerandgeek.com</webMaster>
 		<copyright>2018 - Writer &amp; Geek Show</copyright>
-		<pubDate>Mon, 10 Sep 2018 20:49:43 +0530</pubDate>
-		<lastBuildDate>Mon, 10 Sep 2018 20:49:43 +0530</lastBuildDate>
+		<pubDate>Tue, 11 Sep 2018 08:20:02 +0530</pubDate>
+		<lastBuildDate>Tue, 11 Sep 2018 08:20:02 +0530</lastBuildDate>
 		<image>
-			<link>http://localhost:4000</link>
+			<link>https://writerandgeek.com</link>
 			<url>http://res.cloudinary.com/writerandgeek/image/upload/v1506998325/wnglogo.jpg</url>
 			<title>Writer &amp; Geek Show</title>
 		</image>
@@ -39,7 +39,7 @@
 		
 			<item>
 				<title>051 - Ice-cream</title>
-				<link>http://localhost:4000/051-ice-cream/</link>
+				<link>https://writerandgeek.com/051-ice-cream/</link>
 				<pubDate>Sun, 09 Sep 2018 11:20:00 +0530</pubDate>
 				<!-- <description>In this episode, we discuss heaven sent ice-cream.</description> -->
 				<description><h3 id="ice-and-cream">Ice and cream</h3>
@@ -105,7 +105,7 @@
 
 <p><a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@harniche?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Harnish Ganatra"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-1px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M20.8 18.1c0 2.7-2.2 4.8-4.8 4.8s-4.8-2.1-4.8-4.8c0-2.7 2.2-4.8 4.8-4.8 2.7.1 4.8 2.2 4.8 4.8zm11.2-7.4v14.9c0 2.3-1.9 4.3-4.3 4.3h-23.4c-2.4 0-4.3-1.9-4.3-4.3v-15c0-2.3 1.9-4.3 4.3-4.3h3.7l.8-2.3c.4-1.1 1.7-2 2.9-2h8.6c1.2 0 2.5.9 2.9 2l.8 2.4h3.7c2.4 0 4.3 1.9 4.3 4.3zm-8.6 7.5c0-4.1-3.3-7.5-7.5-7.5-4.1 0-7.5 3.4-7.5 7.5s3.3 7.5 7.5 7.5c4.2-.1 7.5-3.4 7.5-7.5z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Harnish Ganatra</span></a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/051-ice-cream/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/051-ice-cream/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/a73503ae.mp3" length="32299733" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>In this episode, we discuss heaven sent ice-cream.</itunes:subtitle>
@@ -244,7 +244,7 @@
 		
 			<item>
 				<title>050 - Cryptography ft. Rupen Paul</title>
-				<link>http://localhost:4000/050-cryptography/</link>
+				<link>https://writerandgeek.com/050-cryptography/</link>
 				<pubDate>Sun, 26 Aug 2018 05:35:00 +0530</pubDate>
 				<!-- <description>A standup comedian, a writer and a software engineer talk about cryptography</description> -->
 				<description><h3 id="thats-50">That’s 50!</h3>
@@ -267,7 +267,7 @@
 
 <p><a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@mr_williams_photography?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Micah Williams"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-1px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M20.8 18.1c0 2.7-2.2 4.8-4.8 4.8s-4.8-2.1-4.8-4.8c0-2.7 2.2-4.8 4.8-4.8 2.7.1 4.8 2.2 4.8 4.8zm11.2-7.4v14.9c0 2.3-1.9 4.3-4.3 4.3h-23.4c-2.4 0-4.3-1.9-4.3-4.3v-15c0-2.3 1.9-4.3 4.3-4.3h3.7l.8-2.3c.4-1.1 1.7-2 2.9-2h8.6c1.2 0 2.5.9 2.9 2l.8 2.4h3.7c2.4 0 4.3 1.9 4.3 4.3zm-8.6 7.5c0-4.1-3.3-7.5-7.5-7.5-4.1 0-7.5 3.4-7.5 7.5s3.3 7.5 7.5 7.5c4.2-.1 7.5-3.4 7.5-7.5z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Micah Williams</span></a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/050-cryptography/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/050-cryptography/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/6d652264.mp3" length="56198227" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>A standup comedian, a writer and a software engineer talk about cryptography</itunes:subtitle>
@@ -320,7 +320,7 @@
 		
 			<item>
 				<title>Bonus - An update on the flood situation</title>
-				<link>http://localhost:4000/flood-update/</link>
+				<link>https://writerandgeek.com/flood-update/</link>
 				<pubDate>Mon, 20 Aug 2018 05:35:00 +0530</pubDate>
 				<!-- <description>An update on the flood situation in Kerala &amp; Karnataka.</description> -->
 				<description><h3 id="update">Update</h3>
@@ -333,7 +333,7 @@
 
 <p><a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@laicho?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Cherry Laithang"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-1px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M20.8 18.1c0 2.7-2.2 4.8-4.8 4.8s-4.8-2.1-4.8-4.8c0-2.7 2.2-4.8 4.8-4.8 2.7.1 4.8 2.2 4.8 4.8zm11.2-7.4v14.9c0 2.3-1.9 4.3-4.3 4.3h-23.4c-2.4 0-4.3-1.9-4.3-4.3v-15c0-2.3 1.9-4.3 4.3-4.3h3.7l.8-2.3c.4-1.1 1.7-2 2.9-2h8.6c1.2 0 2.5.9 2.9 2l.8 2.4h3.7c2.4 0 4.3 1.9 4.3 4.3zm-8.6 7.5c0-4.1-3.3-7.5-7.5-7.5-4.1 0-7.5 3.4-7.5 7.5s3.3 7.5 7.5 7.5c4.2-.1 7.5-3.4 7.5-7.5z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Cherry Laithang</span></a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/flood-update/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/flood-update/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/5feebf9c.mp3" length="9890456" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>An update on the flood situation in Kerala &amp; Karnataka.</itunes:subtitle>
@@ -366,7 +366,7 @@
 		
 			<item>
 				<title>049 - Serial Killer Files Part 5: Cyanide Mohan</title>
-				<link>http://localhost:4000/049-serial-killer-cynide-mohan/</link>
+				<link>https://writerandgeek.com/049-serial-killer-cynide-mohan/</link>
 				<pubDate>Sun, 19 Aug 2018 05:35:00 +0530</pubDate>
 				<!-- <description>In this episode, we talk about Cyanide Mohan. A serial killer from South India.</description> -->
 				<description><p>Mohan Kumar, infamously known as Cyanide Mohan is a serial killer who targeted women by offering them marriage.</p>
@@ -396,7 +396,7 @@
 
 <p><a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@rawpixel?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from rawpixel"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-1px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M20.8 18.1c0 2.7-2.2 4.8-4.8 4.8s-4.8-2.1-4.8-4.8c0-2.7 2.2-4.8 4.8-4.8 2.7.1 4.8 2.2 4.8 4.8zm11.2-7.4v14.9c0 2.3-1.9 4.3-4.3 4.3h-23.4c-2.4 0-4.3-1.9-4.3-4.3v-15c0-2.3 1.9-4.3 4.3-4.3h3.7l.8-2.3c.4-1.1 1.7-2 2.9-2h8.6c1.2 0 2.5.9 2.9 2l.8 2.4h3.7c2.4 0 4.3 1.9 4.3 4.3zm-8.6 7.5c0-4.1-3.3-7.5-7.5-7.5-4.1 0-7.5 3.4-7.5 7.5s3.3 7.5 7.5 7.5c4.2-.1 7.5-3.4 7.5-7.5z"></path></svg></span><span style="display:inline-block;padding:2px 3px">rawpixel</span></a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/049-serial-killer-cynide-mohan/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/049-serial-killer-cynide-mohan/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/5c1bb3c3.mp3" length="28419868" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>In this episode, we talk about Cyanide Mohan. A serial killer from South India.</itunes:subtitle>
@@ -463,7 +463,7 @@
 		
 			<item>
 				<title>Bonus - A request</title>
-				<link>http://localhost:4000/a-request/</link>
+				<link>https://writerandgeek.com/a-request/</link>
 				<pubDate>Wed, 15 Aug 2018 05:35:00 +0530</pubDate>
 				<!-- <description>We ask you for something.</description> -->
 				<description><h3 id="kerala-needs-our-help">Kerala needs our help</h3>
@@ -476,7 +476,7 @@
 
 <p><a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@laicho?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Cherry Laithang"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-1px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M20.8 18.1c0 2.7-2.2 4.8-4.8 4.8s-4.8-2.1-4.8-4.8c0-2.7 2.2-4.8 4.8-4.8 2.7.1 4.8 2.2 4.8 4.8zm11.2-7.4v14.9c0 2.3-1.9 4.3-4.3 4.3h-23.4c-2.4 0-4.3-1.9-4.3-4.3v-15c0-2.3 1.9-4.3 4.3-4.3h3.7l.8-2.3c.4-1.1 1.7-2 2.9-2h8.6c1.2 0 2.5.9 2.9 2l.8 2.4h3.7c2.4 0 4.3 1.9 4.3 4.3zm-8.6 7.5c0-4.1-3.3-7.5-7.5-7.5-4.1 0-7.5 3.4-7.5 7.5s3.3 7.5 7.5 7.5c4.2-.1 7.5-3.4 7.5-7.5z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Cherry Laithang</span></a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/a-request/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/a-request/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/4c641477.mp3" length="5877988" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>We ask you for something.</itunes:subtitle>
@@ -509,7 +509,7 @@
 		
 			<item>
 				<title>048 - Jet Engines</title>
-				<link>http://localhost:4000/048-jet-engines/</link>
+				<link>https://writerandgeek.com/048-jet-engines/</link>
 				<pubDate>Sun, 12 Aug 2018 05:35:00 +0530</pubDate>
 				<!-- <description>In this episode, we discuss the Jet freaking engines.</description> -->
 				<description><h3 id="love-em-planes-️">Love ‘em planes ✈️</h3>
@@ -556,7 +556,7 @@
 
 <p><a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@owencavlys?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Owen CL"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-1px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M20.8 18.1c0 2.7-2.2 4.8-4.8 4.8s-4.8-2.1-4.8-4.8c0-2.7 2.2-4.8 4.8-4.8 2.7.1 4.8 2.2 4.8 4.8zm11.2-7.4v14.9c0 2.3-1.9 4.3-4.3 4.3h-23.4c-2.4 0-4.3-1.9-4.3-4.3v-15c0-2.3 1.9-4.3 4.3-4.3h3.7l.8-2.3c.4-1.1 1.7-2 2.9-2h8.6c1.2 0 2.5.9 2.9 2l.8 2.4h3.7c2.4 0 4.3 1.9 4.3 4.3zm-8.6 7.5c0-4.1-3.3-7.5-7.5-7.5-4.1 0-7.5 3.4-7.5 7.5s3.3 7.5 7.5 7.5c4.2-.1 7.5-3.4 7.5-7.5z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Owen CL</span></a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/048-jet-engines/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/048-jet-engines/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/c529d473.mp3" length="33086754" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>In this episode, we discuss the Jet freaking engines.</itunes:subtitle>
@@ -657,7 +657,7 @@
 		
 			<item>
 				<title>047 - Pizza</title>
-				<link>http://localhost:4000/047-pizza/</link>
+				<link>https://writerandgeek.com/047-pizza/</link>
 				<pubDate>Sun, 05 Aug 2018 23:20:00 +0530</pubDate>
 				<!-- <description>In this episode, we discuss about the mighty Pizza.</description> -->
 				<description><h2 id="its-mighty">It’s mighty!</h2>
@@ -700,7 +700,7 @@
 
 <p><a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@iavnt?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from ivan Torres"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-1px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M20.8 18.1c0 2.7-2.2 4.8-4.8 4.8s-4.8-2.1-4.8-4.8c0-2.7 2.2-4.8 4.8-4.8 2.7.1 4.8 2.2 4.8 4.8zm11.2-7.4v14.9c0 2.3-1.9 4.3-4.3 4.3h-23.4c-2.4 0-4.3-1.9-4.3-4.3v-15c0-2.3 1.9-4.3 4.3-4.3h3.7l.8-2.3c.4-1.1 1.7-2 2.9-2h8.6c1.2 0 2.5.9 2.9 2l.8 2.4h3.7c2.4 0 4.3 1.9 4.3 4.3zm-8.6 7.5c0-4.1-3.3-7.5-7.5-7.5-4.1 0-7.5 3.4-7.5 7.5s3.3 7.5 7.5 7.5c4.2-.1 7.5-3.4 7.5-7.5z"></path></svg></span><span style="display:inline-block;padding:2px 3px">ivan Torres</span></a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/047-pizza/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/047-pizza/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/92f72aca.mp3" length="41336371" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>In this episode, we discuss about the mighty Pizza.</itunes:subtitle>
@@ -793,7 +793,7 @@
 		
 			<item>
 				<title>Bonus - An update</title>
-				<link>http://localhost:4000/an-update/</link>
+				<link>https://writerandgeek.com/an-update/</link>
 				<pubDate>Sat, 14 Jul 2018 05:35:00 +0530</pubDate>
 				<!-- <description>In this episode, we give you an update on our show.</description> -->
 				<description><h1 id="an-update">An update</h1>
@@ -802,7 +802,7 @@
 
 <p>— Shankar and Vishnu</p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/an-update/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/an-update/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/4d68c3a3.mp3" length="3654634" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>In this episode, we give you an update on our show.</itunes:subtitle>
@@ -827,7 +827,7 @@
 		
 			<item>
 				<title>046 - Deconstructing Formula One</title>
-				<link>http://localhost:4000/046-deconstructing-formula-one/</link>
+				<link>https://writerandgeek.com/046-deconstructing-formula-one/</link>
 				<pubDate>Sun, 03 Jun 2018 23:20:00 +0530</pubDate>
 				<!-- <description>In this episode, we discuss the science and history of Formula 1.</description> -->
 				<description><h1 id="the-top-notch">The top notch</h1>
@@ -971,7 +971,7 @@ During rain, wet tyres can remove almost 250l of water a second from the track.<
 
 <p>Image: <a href="https://pixabay.com/en/car-racing-barcelona-formula-1-1404063/" target="_blank">Pixabay</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/046-deconstructing-formula-one/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/046-deconstructing-formula-one/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/27cbb459.mp3" length="64311048" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>In this episode, we discuss the science and history of Formula 1.</itunes:subtitle>
@@ -1266,7 +1266,7 @@ During rain, wet tyres can remove almost 250l of water a second from the track.<
 		
 			<item>
 				<title>045 - Pioneer 10: The Lost Traveller</title>
-				<link>http://localhost:4000/045-pioneer-10/</link>
+				<link>https://writerandgeek.com/045-pioneer-10/</link>
 				<pubDate>Sun, 27 May 2018 23:20:00 +0530</pubDate>
 				<!-- <description>In this episode we discuss the history of Pioneer 10.</description> -->
 				<description><p><em>Note: NASA was established in 1958 as opposed to 1959 as mentioned by Shankar.</em></p>
@@ -1373,7 +1373,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 
 <p>Image: <a href="https://simple.wikipedia.org/wiki/Pioneer_10#/media/File:Pioneer_10-11_spacecraft.jpg" target="_blank">Wikipedia</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/045-pioneer-10/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/045-pioneer-10/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/12adf1d2.mp3" length="47492372" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>In this episode we discuss the history of Pioneer 10.</itunes:subtitle>
@@ -1594,7 +1594,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 		
 			<item>
 				<title>044 - Bizarre history of birth control</title>
-				<link>http://localhost:4000/044-birth-control/</link>
+				<link>https://writerandgeek.com/044-birth-control/</link>
 				<pubDate>Sun, 20 May 2018 23:20:00 +0530</pubDate>
 				<!-- <description>In this episode we discuss the history of birth control.</description> -->
 				<description><p>Birth control is a method or a device that is used to prevent pregnancy. Though safe and effective birth control came into existence only in the 20th century, ways to prevent pregnancy have been devised since ancient times. Birth control has been the centre of many controversies as well.</p>
@@ -1637,7 +1637,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 
 <p>Image: <a href="https://pixabay.com/en/sperium-cum-sperm-winner-first-2505954/" target="_blank">Pixabay</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/044-birth-control/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/044-birth-control/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/be7b4474.mp3" length="37750589" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>In this episode we discuss the history of birth control.</itunes:subtitle>
@@ -1730,7 +1730,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 		
 			<item>
 				<title>043 - Beer Talk: Why learn history?</title>
-				<link>http://localhost:4000/043-why-history/</link>
+				<link>https://writerandgeek.com/043-why-history/</link>
 				<pubDate>Sun, 13 May 2018 23:20:00 +0530</pubDate>
 				<!-- <description>In this episode, the crew discusses why learning history is important.</description> -->
 				<description><h2 id="why-learning-history-is-important">Why learning history is important</h2>
@@ -1739,7 +1739,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 
 <p><a href="https://www.youtube.com/watch?v=8eIvGtn1NAU" target="_blank">Thomas Ketchell’s talk</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/043-why-history/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/043-why-history/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/afc99744.mp3" length="22452022" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>In this episode, the crew discusses why learning history is important.</itunes:subtitle>
@@ -1764,7 +1764,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 		
 			<item>
 				<title>042 - History of Timekeeping</title>
-				<link>http://localhost:4000/042-timekeeping/</link>
+				<link>https://writerandgeek.com/042-timekeeping/</link>
 				<pubDate>Sun, 06 May 2018 23:20:00 +0530</pubDate>
 				<!-- <description>We take watches and clocks for granted. How did they come into being?</description> -->
 				<description><h2 id="definition-of-time">Definition of time</h2>
@@ -1890,7 +1890,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 
 <p>Image: Shankar’s Instagram</p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/042-timekeeping/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/042-timekeeping/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/96248ffb.mp3" length="52249573" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>We take watches and clocks for granted. How did they come into being?</itunes:subtitle>
@@ -2149,7 +2149,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 		
 			<item>
 				<title>041 - Coffee rules the world</title>
-				<link>http://localhost:4000/041-coffee/</link>
+				<link>https://writerandgeek.com/041-coffee/</link>
 				<pubDate>Sun, 29 Apr 2018 17:20:00 +0530</pubDate>
 				<!-- <description>Coffee is one of the most popular drink alongside water</description> -->
 				<description><h2 id="world-runs-on-coffee">World runs on coffee</h2>
@@ -2264,7 +2264,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 
 <p>Image: <a href="https://500px.com/photo/253971127/the-mechanics-of-coffee-by-vishnu-padmanabhan?ctx_page=1&amp;from=user&amp;user_id=10987753" target="_blank">Vishnu’s 500px</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/041-coffee/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/041-coffee/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/f424d1e8.mp3" length="45723945" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>Coffee is one of the most popular drink alongside water</itunes:subtitle>
@@ -2501,7 +2501,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 		
 			<item>
 				<title>040 - Serial Killer Files Part 4: DC Sniper</title>
-				<link>http://localhost:4000/040-serial-killer-dc-sniper/</link>
+				<link>https://writerandgeek.com/040-serial-killer-dc-sniper/</link>
 				<pubDate>Sun, 15 Apr 2018 17:20:00 +0530</pubDate>
 				<!-- <description>The story of the DC Snipers.</description> -->
 				<description><p>The DC Sniper was a series of coordinated shooting on civilians at random during October 2002 which were perpetrated by John Allen Muhammad and Lee Boyd Malvo.</p>
@@ -2576,7 +2576,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 
 <p>Image: <a href="https://pixabay.com/en/sniper-aim-crosshair-cross-hairs-297661/" target="_blank">pixabay</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/040-serial-killer-dc-sniper/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/040-serial-killer-dc-sniper/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/0f8b0a4c.mp3" length="42793263" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>The story of the DC Snipers.</itunes:subtitle>
@@ -2733,7 +2733,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 		
 			<item>
 				<title>039 - Why do the continents move</title>
-				<link>http://localhost:4000/039-continental-drift/</link>
+				<link>https://writerandgeek.com/039-continental-drift/</link>
 				<pubDate>Sun, 08 Apr 2018 17:20:00 +0530</pubDate>
 				<!-- <description>In this episode, we talk about continental drift</description> -->
 				<description><h1 id="continental-drift">Continental Drift</h1>
@@ -2835,7 +2835,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 
 <p>Image: <a href="https://pixabay.com/en/planet-spherical-map-sphere-3096675/">pixabay</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/039-continental-drift/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/039-continental-drift/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/3735d8b6.mp3" length="20300030" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>In this episode, we talk about continental drift</itunes:subtitle>
@@ -3046,7 +3046,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 		
 			<item>
 				<title>038 - Beer Talk: Facebook, Google and online privacy</title>
-				<link>http://localhost:4000/038-online-privacy/</link>
+				<link>https://writerandgeek.com/038-online-privacy/</link>
 				<pubDate>Sun, 01 Apr 2018 17:20:00 +0530</pubDate>
 				<!-- <description>In this special episode, we ramble about online privacy and why Vishnu deleted his FB account</description> -->
 				<description><h2 id="facebook-google-and-privacy">Facebook, Google and privacy</h2>
@@ -3059,7 +3059,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/038-online-privacy/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/038-online-privacy/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/fcf47bea.mp3" length="18940350" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>In this special episode, we ramble about online privacy and why Vishnu deleted his FB account</itunes:subtitle>
@@ -3092,7 +3092,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 		
 			<item>
 				<title>037 - The Race to the South Pole</title>
-				<link>http://localhost:4000/037-race-to-south-pole/</link>
+				<link>https://writerandgeek.com/037-race-to-south-pole/</link>
 				<pubDate>Sun, 25 Mar 2018 17:20:00 +0530</pubDate>
 				<!-- <description>In this episode we speak about the race to South Pole</description> -->
 				<description><h2 id="the-race-to-the-south-pole">The Race to the South Pole</h2>
@@ -3212,7 +3212,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 
 <p><a href="https://pixabay.com/en/emperor-penguins-antarctic-life-429127/" target="blank">Pixabay</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/037-race-to-south-pole/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/037-race-to-south-pole/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/f7f2cad7.mp3" length="52344450" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>In this episode we speak about the race to South Pole</itunes:subtitle>
@@ -3459,7 +3459,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 		
 			<item>
 				<title>036 - Blockchain Primer</title>
-				<link>http://localhost:4000/036-blockchain-primer/</link>
+				<link>https://writerandgeek.com/036-blockchain-primer/</link>
 				<pubDate>Sun, 18 Mar 2018 17:20:00 +0530</pubDate>
 				<!-- <description>In this episode we speak about the blockchain technology</description> -->
 				<description><h1 id="the-blockchain-funda">The Blockchain Funda</h1>
@@ -3530,7 +3530,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 
 <p><a href="https://pixabay.com/en/bitcoin-btc-block-chain-blockchain-3023881/" target="blank">Pixabay</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/036-blockchain-primer/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/036-blockchain-primer/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/580f295a.mp3" length="39717893" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>In this episode we speak about the blockchain technology</itunes:subtitle>
@@ -3679,7 +3679,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 		
 			<item>
 				<title>035 - The Match Fixing Scandal of 2000</title>
-				<link>http://localhost:4000/035-the-match-fixing/</link>
+				<link>https://writerandgeek.com/035-the-match-fixing/</link>
 				<pubDate>Sun, 11 Mar 2018 17:20:00 +0530</pubDate>
 				<!-- <description>In this episode we speak the scandal which shook the cricketing world</description> -->
 				<description><h2 id="the-match-fixing-scandal-of-2000">The Match Fixing Scandal of 2000</h2>
@@ -3752,7 +3752,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 
 <p><a href="https://pixabay.com/en/ball-cricket-game-sports-2502587/" target="blank">Pixabay</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/035-the-match-fixing/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/035-the-match-fixing/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/45083796.mp3" length="29660967" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>In this episode we speak the scandal which shook the cricketing world</itunes:subtitle>
@@ -3905,7 +3905,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 		
 			<item>
 				<title>034 - Life as a comic with Rupen Paul</title>
-				<link>http://localhost:4000/034-comic-rupen-paul/</link>
+				<link>https://writerandgeek.com/034-comic-rupen-paul/</link>
 				<pubDate>Sun, 04 Mar 2018 17:20:00 +0530</pubDate>
 				<!-- <description>In this episode we speak to Rupen Paul about the being a standup comedian</description> -->
 				<description><h2 id="interview-with-a-comic-rupen-paul">Interview with a comic: Rupen Paul</h2>
@@ -3939,7 +3939,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 
 <p><a href="https://www.facebook.com/photo.php?fbid=10154921701085351&amp;set=t.100001647223728&amp;type=3&amp;theater" target="blank">Facebook</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/034-comic-rupen-paul/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/034-comic-rupen-paul/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/9ac8cf1c.mp3" length="48025841" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>In this episode we speak to Rupen Paul about the being a standup comedian</itunes:subtitle>
@@ -4014,7 +4014,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 		
 			<item>
 				<title>033 - Submarines</title>
-				<link>http://localhost:4000/033-submarines/</link>
+				<link>https://writerandgeek.com/033-submarines/</link>
 				<pubDate>Sun, 18 Feb 2018 17:20:00 +0530</pubDate>
 				<!-- <description>We talk about submarines, the coolest way to travel!</description> -->
 				<description><h2 id="submarines">Submarines</h2>
@@ -4104,7 +4104,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 
 <p><a href="https://pixabay.com/en/submarine-boat-sea-ocean-water-168884/" target="blank">Pixabay</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/033-submarines/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/033-submarines/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/2bc6ba6f.mp3" length="12679683" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>We talk about submarines, the coolest way to travel!</itunes:subtitle>
@@ -4291,7 +4291,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 		
 			<item>
 				<title>032 - Restaurant Roundup - 02</title>
-				<link>http://localhost:4000/032-restaurant-roundup-02/</link>
+				<link>https://writerandgeek.com/032-restaurant-roundup-02/</link>
 				<pubDate>Sun, 11 Feb 2018 17:20:00 +0530</pubDate>
 				<!-- <description>We ramble about the places we love to eat</description> -->
 				<description><h3 id="for-the-love-of-food">For the love of food!</h3>
@@ -4307,7 +4307,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
   <li><a href="https://www.zomato.com/bangalore/alibaba-cafe-and-restaurant-frazer-town" target="blank">Alibaba</a> A trip to arabia through food!</li>
 </ul>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/032-restaurant-roundup-02/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/032-restaurant-roundup-02/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/ee8a2f2f.mp3" length="10482911" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>We ramble about the places we love to eat</itunes:subtitle>
@@ -4346,7 +4346,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 		
 			<item>
 				<title>031 - Serial Killer Files Part 3: The Green River Killer</title>
-				<link>http://localhost:4000/031-serial-killer-green-river/</link>
+				<link>https://writerandgeek.com/031-serial-killer-green-river/</link>
 				<pubDate>Sun, 04 Feb 2018 17:20:00 +0530</pubDate>
 				<!-- <description>The story of the Green River Killer - Gary Ridgeway.</description> -->
 				<description><h3 id="episodes">Episodes</h3>
@@ -4456,7 +4456,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 
 <p>Image: <a href="https://en.wikipedia.org/wiki/Gary_Ridgway#/media/File:Gary_Ridgway_Mugshot_11302001.jpg" target="blank">Wikipedia</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/031-serial-killer-green-river/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/031-serial-killer-green-river/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/b8d95d17.mp3" length="11697179" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>The story of the Green River Killer - Gary Ridgeway.</itunes:subtitle>
@@ -4683,7 +4683,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 		
 			<item>
 				<title>030 - To Moon and Back - Part 5</title>
-				<link>http://localhost:4000/030-to-moon-and-back-5/</link>
+				<link>https://writerandgeek.com/030-to-moon-and-back-5/</link>
 				<pubDate>Sun, 28 Jan 2018 17:20:00 +0530</pubDate>
 				<!-- <description>There were six more missions after Apollo 11.</description> -->
 				<description><h3 id="episodes">Episodes</h3>
@@ -4713,7 +4713,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 
 <p>Image: <a href="https://pixabay.com/en/moon-vehicle-astronaut-space-travel-67521/" target="blank">Pixabay</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/030-to-moon-and-back-5/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/030-to-moon-and-back-5/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/dc78da42.mp3" length="11238994" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>There were six more missions after Apollo 11.</itunes:subtitle>
@@ -4780,7 +4780,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 		
 			<item>
 				<title>029 - History of Motion Pictures: Part 1</title>
-				<link>http://localhost:4000/029-history-of-motion-picture-01/</link>
+				<link>https://writerandgeek.com/029-history-of-motion-picture-01/</link>
 				<pubDate>Sun, 21 Jan 2018 17:20:00 +0530</pubDate>
 				<!-- <description>A look into the evolution of motion pictures and photography</description> -->
 				<description><h3 id="motion-pictures">Motion Pictures</h3>
@@ -4795,7 +4795,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 
 <p>Image: <a href="https://pixabay.com/en/camera-history-museum-film-ancient-1005999/" target="blank">Pixabay</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/029-history-of-motion-picture-01/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/029-history-of-motion-picture-01/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/1b82a9b9.mp3" length="8998039" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>A look into the evolution of motion pictures and photography</itunes:subtitle>
@@ -4832,7 +4832,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 		
 			<item>
 				<title>028 - Evolution of Languages: Dravidian - Part 1</title>
-				<link>http://localhost:4000/028-evolution-of-language-dravidian-01/</link>
+				<link>https://writerandgeek.com/028-evolution-of-language-dravidian-01/</link>
 				<pubDate>Fri, 12 Jan 2018 17:20:00 +0530</pubDate>
 				<!-- <description>A look into the evolution of languages starting with Dravidian.</description> -->
 				<description><h3 id="the-language">The Language</h3>
@@ -4842,7 +4842,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 
 <p>Image: <a href="https://pixabay.com/en/quill-pen-write-author-ink-175980/" target="blank">Pixabay</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/028-evolution-of-language-dravidian-01/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/028-evolution-of-language-dravidian-01/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/f0938853.mp3" length="9789869" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>A look into the evolution of languages starting with Dravidian.</itunes:subtitle>
@@ -4869,7 +4869,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 		
 			<item>
 				<title>027 - History of the Toothbrush</title>
-				<link>http://localhost:4000/027-history-of-toothbrush/</link>
+				<link>https://writerandgeek.com/027-history-of-toothbrush/</link>
 				<pubDate>Fri, 05 Jan 2018 17:20:00 +0530</pubDate>
 				<!-- <description>A look into the history of the toothbrush.</description> -->
 				<description><h3 id="the-toothbrush">The Toothbrush</h3>
@@ -4877,7 +4877,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 
 <p>Image: <a href="https://pixabay.com/en/toothbrush-toothpaste-hygiene-blue-2589480/" target="blank">Pixabay</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/027-history-of-toothbrush/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/027-history-of-toothbrush/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/f39f27e9.mp3" length="9331233" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>A look into the history of the toothbrush.</itunes:subtitle>
@@ -4900,7 +4900,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 		
 			<item>
 				<title>026 - Serial Killer Files Part 2: Ed Gein - The Real Psycho</title>
-				<link>http://localhost:4000/026-serial-killer-ed-gein/</link>
+				<link>https://writerandgeek.com/026-serial-killer-ed-gein/</link>
 				<pubDate>Fri, 29 Dec 2017 17:20:00 +0530</pubDate>
 				<!-- <description>Ed Gein was a killer who inpired many dark movie characters</description> -->
 				<description><h3 id="episodes">Episodes</h3>
@@ -4924,7 +4924,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 
 <p>Image: <a href="https://en.wikipedia.org/wiki/Ed_Gein#/media/File:Edgein.jpg" target="blank">Wikipedia</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/026-serial-killer-ed-gein/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/026-serial-killer-ed-gein/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/25e25018.mp3" length="9936862" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>Ed Gein was a killer who inpired many dark movie characters</itunes:subtitle>
@@ -4979,7 +4979,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 		
 			<item>
 				<title>025 - The Genographic Project (Human Migration)</title>
-				<link>http://localhost:4000/025-genographic-project/</link>
+				<link>https://writerandgeek.com/025-genographic-project/</link>
 				<pubDate>Fri, 22 Dec 2017 17:20:00 +0530</pubDate>
 				<!-- <description>Humans originated in Africa, how did we spread all over?</description> -->
 				<description><h3 id="the-genographic-project">The Genographic Project</h3>
@@ -4987,7 +4987,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 
 <p>Image: <a href="https://pixabay.com/en/dna-body-strand-molecule-biology-2371858/" target="blank">Pixabay</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/025-genographic-project/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/025-genographic-project/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/497bd236.mp3" length="9519033" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>Humans originated in Africa, how did we spread all over?</itunes:subtitle>
@@ -5010,7 +5010,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 		
 			<item>
 				<title>024 - What is the Law of Attraction?</title>
-				<link>http://localhost:4000/024-the-law-of-attraction/</link>
+				<link>https://writerandgeek.com/024-the-law-of-attraction/</link>
 				<pubDate>Fri, 15 Dec 2017 17:20:00 +0530</pubDate>
 				<!-- <description>What is LOA and how exactly does it work?</description> -->
 				<description><h3 id="the-real-law-of-attraction">The real Law of Attraction</h3>
@@ -5020,7 +5020,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 
 <p>Image: <a href="https://pixabay.com/en/key-keyhole-lock-security-unlock-2114046/" target="blank">Pixabay</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/024-the-law-of-attraction/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/024-the-law-of-attraction/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/5146a584.mp3" length="10551266" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>What is LOA and how exactly does it work?</itunes:subtitle>
@@ -5047,7 +5047,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 		
 			<item>
 				<title>023 - To Moon and Back - Part 4</title>
-				<link>http://localhost:4000/023-to-moon-and-back-4/</link>
+				<link>https://writerandgeek.com/023-to-moon-and-back-4/</link>
 				<pubDate>Fri, 08 Dec 2017 17:20:00 +0530</pubDate>
 				<!-- <description>Apollo 11 mission - how much do you know about it?</description> -->
 				<description><h3 id="episodes">Episodes</h3>
@@ -5077,7 +5077,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 
 <p>Image: <a href="https://pixabay.com/en/moon-landing-lunar-module-eagle-193761/" target="blank">Pixabay</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/023-to-moon-and-back-4/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/023-to-moon-and-back-4/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/c185dabb.mp3" length="8943927" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>Apollo 11 mission - how much do you know about it?</itunes:subtitle>
@@ -5144,7 +5144,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 		
 			<item>
 				<title>022 - Freelancing and Startups</title>
-				<link>http://localhost:4000/022-freelance-and-startups/</link>
+				<link>https://writerandgeek.com/022-freelance-and-startups/</link>
 				<pubDate>Fri, 01 Dec 2017 17:20:00 +0530</pubDate>
 				<!-- <description>What does it take to be a freelancer or to work in a startup.</description> -->
 				<description><h3 id="on-freelancing-and-startups">On Freelancing and Startups</h3>
@@ -5153,7 +5153,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 
 <p>Image: <a href="https://pixabay.com/en/notebook-ipad-freelance-work-1757220/" target="blank">Pixabay</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/022-freelance-and-startups/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/022-freelance-and-startups/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/9e603b2e.mp3" length="10938844" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>What does it take to be a freelancer or to work in a startup.</itunes:subtitle>
@@ -5178,7 +5178,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 		
 			<item>
 				<title>021 - The War Stories: World War I &amp; II</title>
-				<link>http://localhost:4000/021-war-stories-1/</link>
+				<link>https://writerandgeek.com/021-war-stories-1/</link>
 				<pubDate>Fri, 24 Nov 2017 17:20:00 +0530</pubDate>
 				<!-- <description>Everyone knows about World War (we hope so). Here are some lesser known facts.</description> -->
 				<description><h3 id="the-great-war">The Great War</h3>
@@ -5198,7 +5198,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 
 <p>Image: <a href="https://pixabay.com/en/australia-soldier-war-memorial-day-2187092/" target="blank">Pixabay</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/021-war-stories-1/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/021-war-stories-1/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/9575d278.mp3" length="9483593" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>Everyone knows about World War (we hope so). Here are some lesser known facts.</itunes:subtitle>
@@ -5245,7 +5245,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 		
 			<item>
 				<title>020 - Serial Killer Files Part 1: The Night Stalker</title>
-				<link>http://localhost:4000/020-serial-killer-night-stalker/</link>
+				<link>https://writerandgeek.com/020-serial-killer-night-stalker/</link>
 				<pubDate>Fri, 17 Nov 2017 17:20:00 +0530</pubDate>
 				<!-- <description>Richard Ramirez was a serial killer who terrorized LA in the 80's</description> -->
 				<description><h3 id="episodes">Episodes</h3>
@@ -5300,7 +5300,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 28 June, 1984 - First murder as The Night Stalker.</p>
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/020-serial-killer-night-stalker/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/020-serial-killer-night-stalker/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/f3526a73.mp3" length="10951269" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>Richard Ramirez was a serial killer who terrorized LA in the 80's</itunes:subtitle>
@@ -5417,7 +5417,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 		
 			<item>
 				<title>019 - Restaurant Roundup - 01</title>
-				<link>http://localhost:4000/019-restaurant-roundup-01/</link>
+				<link>https://writerandgeek.com/019-restaurant-roundup-01/</link>
 				<pubDate>Fri, 10 Nov 2017 17:20:00 +0530</pubDate>
 				<!-- <description>We ramble about the places we love to eat</description> -->
 				<description><h3 id="for-the-love-of-food">For the love of food!</h3>
@@ -5437,7 +5437,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 
 <p><a href="http://neoelemento.com/blog/2017/09/30/inglourious-strudel/" target="blank">Vishnu’s article on Strudel</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/019-restaurant-roundup-01/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/019-restaurant-roundup-01/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/d96c95d7.mp3" length="11169566" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>We ramble about the places we love to eat</itunes:subtitle>
@@ -5484,7 +5484,7 @@ If course unaffected, Pioneer 10 will reach Aldebaran in two million years</li>
 		
 			<item>
 				<title>018 - Tools for writing</title>
-				<link>http://localhost:4000/018-writing-tools/</link>
+				<link>https://writerandgeek.com/018-writing-tools/</link>
 				<pubDate>Fri, 03 Nov 2017 17:20:00 +0530</pubDate>
 				<!-- <description>Writing is an art and you need your tools</description> -->
 				<description><h2 id="writing-isnt-easy">Writing isn’t easy</h2>
@@ -5527,7 +5527,7 @@ Google Drive is an alternative for you to store important files online. But OneD
 
 <p>Image: <a href="https://pixabay.com/en/blur-business-desk-drink-education-1869579/" target="blank">Pixabay</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/018-writing-tools/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/018-writing-tools/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/e11d5856.mp3" length="15431227" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>Writing is an art and you need your tools</itunes:subtitle>
@@ -5620,7 +5620,7 @@ Google Drive is an alternative for you to store important files online. But OneD
 		
 			<item>
 				<title>017 - Our musical evolution</title>
-				<link>http://localhost:4000/017-our-musical-evolution/</link>
+				<link>https://writerandgeek.com/017-our-musical-evolution/</link>
 				<pubDate>Fri, 27 Oct 2017 17:20:00 +0530</pubDate>
 				<!-- <description>We discuss the evolution of our musical taste over the years.</description> -->
 				<description><h3 id="how-did-we-evolve-musically">How did we evolve musically?</h3>
@@ -5629,7 +5629,7 @@ Google Drive is an alternative for you to store important files online. But OneD
 
 <p>Image: <a href="https://pixabay.com/en/k7-plastic-magnetic-tape-black-tdk-1336026/" target="blank">Pixabay</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/017-our-musical-evolution/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/017-our-musical-evolution/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/f055dc99.mp3" length="13797066" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>We discuss the evolution of our musical taste over the years.</itunes:subtitle>
@@ -5654,7 +5654,7 @@ Google Drive is an alternative for you to store important files online. But OneD
 		
 			<item>
 				<title>016 - The Neanderthals - Where did they go?</title>
-				<link>http://localhost:4000/016-neanderthal/</link>
+				<link>https://writerandgeek.com/016-neanderthal/</link>
 				<pubDate>Fri, 20 Oct 2017 17:20:00 +0530</pubDate>
 				<!-- <description>Humans did not evolve from Neanderthals as some people think. Sorry.</description> -->
 				<description><h3 id="what-happened-to-our-neanderthal-cousins">What happened to our neanderthal cousins?</h3>
@@ -5679,7 +5679,7 @@ Google Drive is an alternative for you to store important files online. But OneD
 
 <p>Image: <a href="https://pixabay.com/en/caveman-primeval-primitive-man-159359/" target="blank">Pixabay</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/016-neanderthal/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/016-neanderthal/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/562ebeb7.mp3" length="8245231" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>Humans did not evolve from Neanderthals as some people think. Sorry.</itunes:subtitle>
@@ -5736,7 +5736,7 @@ Google Drive is an alternative for you to store important files online. But OneD
 		
 			<item>
 				<title>015 - Podcasting Infrastructure, Hardware and Software</title>
-				<link>http://localhost:4000/015-podcasting-infrastructure/</link>
+				<link>https://writerandgeek.com/015-podcasting-infrastructure/</link>
 				<pubDate>Fri, 13 Oct 2017 17:20:00 +0530</pubDate>
 				<!-- <description>Podcasting story continued. More technical.</description> -->
 				<description><h3 id="podcasting-infrastructure">Podcasting Infrastructure</h3>
@@ -5758,7 +5758,7 @@ Google Drive is an alternative for you to store important files online. But OneD
 
 <p>{<a href="#t=00:15:32">15:32</a>} Media file hosting has to be separate from the web hosting. We use Libsyn for media files. there are other services like SoundCloud and Simplecasts etc.</p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/015-podcasting-infrastructure/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/015-podcasting-infrastructure/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/4769482b.mp3" length="9675251" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>Podcasting story continued. More technical.</itunes:subtitle>
@@ -5809,7 +5809,7 @@ Google Drive is an alternative for you to store important files online. But OneD
 		
 			<item>
 				<title>014 - Intro to podcasting</title>
-				<link>http://localhost:4000/014-intro-to-podcasting/</link>
+				<link>https://writerandgeek.com/014-intro-to-podcasting/</link>
 				<pubDate>Fri, 06 Oct 2017 17:20:00 +0530</pubDate>
 				<!-- <description>How can you start a podcast - our story</description> -->
 				<description><h3 id="how-we-started">How we started</h3>
@@ -5825,7 +5825,7 @@ Google Drive is an alternative for you to store important files online. But OneD
 
 <p>Image: <a href="https://pixabay.com/en/microphone-keyboard-podcast-2469292/" target="blank">Pixabay</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/014-intro-to-podcasting/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/014-intro-to-podcasting/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/66acc300.mp3" length="9811313" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>How can you start a podcast - our story</itunes:subtitle>
@@ -5864,7 +5864,7 @@ Google Drive is an alternative for you to store important files online. But OneD
 		
 			<item>
 				<title>013 - Mars One - too ambitious?</title>
-				<link>http://localhost:4000/013-mars-one/</link>
+				<link>https://writerandgeek.com/013-mars-one/</link>
 				<pubDate>Fri, 29 Sep 2017 17:20:00 +0530</pubDate>
 				<!-- <description>Mars One has a plan to go to Mars. Will they succeed?</description> -->
 				<description><h3 id="what-is-it">What is it?</h3>
@@ -5918,7 +5918,7 @@ Google Drive is an alternative for you to store important files online. But OneD
   <li>The biggest success or the biggest scam.</li>
 </ol>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/013-mars-one/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/013-mars-one/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/7f68fd79.mp3" length="10310666" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>Mars One has a plan to go to Mars. Will they succeed?</itunes:subtitle>
@@ -6033,7 +6033,7 @@ Google Drive is an alternative for you to store important files online. But OneD
 		
 			<item>
 				<title>012 - One Mr. Sherlock Holmes</title>
-				<link>http://localhost:4000/012-sherlock-holmes/</link>
+				<link>https://writerandgeek.com/012-sherlock-holmes/</link>
 				<pubDate>Fri, 22 Sep 2017 17:20:00 +0530</pubDate>
 				<!-- <description>We ramble about the famous fictional detective</description> -->
 				<description><h3 id="its-elementary">It’s elementary</h3>
@@ -6046,7 +6046,7 @@ Google Drive is an alternative for you to store important files online. But OneD
 
 <p>Image: <a href="https://pixabay.com/en/input-door-sherlock-holmes-london-407546/" target="blank">Pixabay</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/012-sherlock-holmes/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/012-sherlock-holmes/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/f4174644.mp3" length="9092711" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>We ramble about the famous fictional detective</itunes:subtitle>
@@ -6079,7 +6079,7 @@ Google Drive is an alternative for you to store important files online. But OneD
 		
 			<item>
 				<title>011 - To Moon and Back - Part 3</title>
-				<link>http://localhost:4000/011-to-moon-and-back-3/</link>
+				<link>https://writerandgeek.com/011-to-moon-and-back-3/</link>
 				<pubDate>Fri, 15 Sep 2017 17:20:00 +0530</pubDate>
 				<!-- <description>Apollo 11 landed on the moon. What about Apollo 1-10?</description> -->
 				<description><h3 id="episodes">Episodes</h3>
@@ -6137,7 +6137,7 @@ Google Drive is an alternative for you to store important files online. But OneD
 
 <p>Image: <a href="https://pixabay.com/en/moon-satellite-space-capsule-lander-1372866/" target="blank">Pixabay</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/011-to-moon-and-back-3/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/011-to-moon-and-back-3/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/7b27b435.mp3" length="8598346" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>Apollo 11 landed on the moon. What about Apollo 1-10?</itunes:subtitle>
@@ -6260,7 +6260,7 @@ Google Drive is an alternative for you to store important files online. But OneD
 		
 			<item>
 				<title>010 - Mangalyaan: To Mars on budget</title>
-				<link>http://localhost:4000/010-mangalyaan/</link>
+				<link>https://writerandgeek.com/010-mangalyaan/</link>
 				<pubDate>Fri, 08 Sep 2017 17:20:00 +0530</pubDate>
 				<!-- <description>India sent a probe to Mars on budget. Let's see how.</description> -->
 				<description><h3 id="cheaper-than-a-cab-ride">Cheaper than a cab ride!</h3>
@@ -6307,7 +6307,7 @@ Google Drive is an alternative for you to store important files online. But OneD
 
 <p>Image: <a href="https://pixabay.com/en/mars-space-science-planet-2651003/" target="blank">Pixabay</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/010-mangalyaan/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/010-mangalyaan/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/85254140.mp3" length="10261579" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>India sent a probe to Mars on budget. Let's see how.</itunes:subtitle>
@@ -6408,7 +6408,7 @@ Google Drive is an alternative for you to store important files online. But OneD
 		
 			<item>
 				<title>009 - 3D Printing for Practical Purposes</title>
-				<link>http://localhost:4000/009-3d-printing/</link>
+				<link>https://writerandgeek.com/009-3d-printing/</link>
 				<pubDate>Fri, 01 Sep 2017 17:20:00 +0530</pubDate>
 				<!-- <description>Can 3D printing be future of business as we know?</description> -->
 				<description><h3 id="earlier-than-you-thought">Earlier than you thought</h3>
@@ -6459,7 +6459,7 @@ Google Drive is an alternative for you to store important files online. But OneD
 
 <p>Image: <a href="https://pixabay.com/en/ball-3d-printing-design-597523/" target="blank">Pixabay</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/009-3d-printing/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/009-3d-printing/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/a51988e3.mp3" length="8598346" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>Can 3D printing be future of business as we know?</itunes:subtitle>
@@ -6568,7 +6568,7 @@ Google Drive is an alternative for you to store important files online. But OneD
 		
 			<item>
 				<title>008 - AI - evolution or revolution?</title>
-				<link>http://localhost:4000/008-artificial-intelligence/</link>
+				<link>https://writerandgeek.com/008-artificial-intelligence/</link>
 				<pubDate>Wed, 16 Aug 2017 17:20:00 +0530</pubDate>
 				<!-- <description>Where does AI lead us? Expansion or destruction?</description> -->
 				<description><h3 id="it-isnt-future-anymore">It isn’t future anymore</h3>
@@ -6656,7 +6656,7 @@ Google Drive is an alternative for you to store important files online. But OneD
 
 <p>Image: <a href="https://pixabay.com/en/artificial-intelligence-155161/" target="blank">Pixabay</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/008-artificial-intelligence/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/008-artificial-intelligence/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/654fd3a1.mp3" length="9731208" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>Where does AI lead us? Expansion or destruction?</itunes:subtitle>
@@ -6839,7 +6839,7 @@ Google Drive is an alternative for you to store important files online. But OneD
 		
 			<item>
 				<title>007 - Mass Hysteria feat. Monkey Man</title>
-				<link>http://localhost:4000/007-mass-hysteria/</link>
+				<link>https://writerandgeek.com/007-mass-hysteria/</link>
 				<pubDate>Tue, 01 Aug 2017 17:20:00 +0530</pubDate>
 				<!-- <description>Taking a peek into creepy world of mass hysteria</description> -->
 				<description><h3 id="mind-games">Mind Games</h3>
@@ -6864,7 +6864,7 @@ Google Drive is an alternative for you to store important files online. But OneD
 
 <p>Image: <a href="https://pixabay.com/en/halloween-ghosts-happy-halloween-1746354/" target="blank">Pixabay</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/007-mass-hysteria/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/007-mass-hysteria/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/142272ee.mp3" length="17762114" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>Taking a peek into creepy world of mass hysteria</itunes:subtitle>
@@ -6921,7 +6921,7 @@ Google Drive is an alternative for you to store important files online. But OneD
 		
 			<item>
 				<title>006 - To Moon and Back - Part 2</title>
-				<link>http://localhost:4000/006-to-moon-and-back-2/</link>
+				<link>https://writerandgeek.com/006-to-moon-and-back-2/</link>
 				<pubDate>Sun, 16 Jul 2017 05:35:00 +0530</pubDate>
 				<!-- <description>More about Saturn V launch vehicle and Apollo spacecraft</description> -->
 				<description><h3 id="episodes">Episodes</h3>
@@ -6998,7 +6998,7 @@ Google Drive is an alternative for you to store important files online. But OneD
 
 <p>Image: <a href="https://pixabay.com/en/astronaut-american-flag-salute-1082335/" target="_blank">Pixabay.com</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/006-to-moon-and-back-2/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/006-to-moon-and-back-2/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/9cff14c6.mp3" length="13642894" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>More about Saturn V launch vehicle and Apollo spacecraft</itunes:subtitle>
@@ -7159,7 +7159,7 @@ Google Drive is an alternative for you to store important files online. But OneD
 		
 			<item>
 				<title>005 - To Moon and Back - Part 1</title>
-				<link>http://localhost:4000/005-to-moon-and-back-1/</link>
+				<link>https://writerandgeek.com/005-to-moon-and-back-1/</link>
 				<pubDate>Sat, 01 Jul 2017 16:35:00 +0530</pubDate>
 				<!-- <description>History of Moon landings and the events surrounding it.</description> -->
 				<description><h3 id="episodes">Episodes</h3>
@@ -7207,7 +7207,7 @@ Google Drive is an alternative for you to store important files online. But OneD
 
 <p>Image: <a href="https://pixabay.com/en/apollo-moon-landing-nasa-usa-148722/" target="_blank">Pixabay.com</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/005-to-moon-and-back-1/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/005-to-moon-and-back-1/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/0a390c68.mp3" length="15417753" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>History of Moon landings and the events surrounding it.</itunes:subtitle>
@@ -7310,7 +7310,7 @@ Google Drive is an alternative for you to store important files online. But OneD
 		
 			<item>
 				<title>004 - Phantom Time Hypothesis</title>
-				<link>http://localhost:4000/004-phantom-time/</link>
+				<link>https://writerandgeek.com/004-phantom-time/</link>
 				<pubDate>Fri, 16 Jun 2017 16:35:00 +0530</pubDate>
 				<!-- <description>Did the early middle ages really happen?</description> -->
 				<description><h3 id="mentions">Mentions</h3>
@@ -7328,7 +7328,7 @@ Google Drive is an alternative for you to store important files online. But OneD
   <li>Darkest Hours</li>
 </ul>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/004-phantom-time/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/004-phantom-time/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/d5ff6b26.mp3" length="12297814" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>Did the early middle ages really happen?</itunes:subtitle>
@@ -7371,7 +7371,7 @@ Google Drive is an alternative for you to store important files online. But OneD
 		
 			<item>
 				<title>003 - Losing weight</title>
-				<link>http://localhost:4000/003-losing-weight/</link>
+				<link>https://writerandgeek.com/003-losing-weight/</link>
 				<pubDate>Thu, 01 Jun 2017 16:35:00 +0530</pubDate>
 				<!-- <description>Many of us want to lose that extra bit of weight, but few are successful.</description> -->
 				<description><h3 id="mentions">Mentions</h3>
@@ -7389,7 +7389,7 @@ Google Drive is an alternative for you to store important files online. But OneD
   <li><a href="http://freemusicarchive.org/music/Lamprey/The_Greener_Grass/" target="_blank">Lamprey</a></li>
 </ul>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/003-losing-weight/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/003-losing-weight/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/d745768c.mp3" length="16568139" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>Many of us want to lose that extra bit of weight, but few are successful.</itunes:subtitle>
@@ -7432,7 +7432,7 @@ Google Drive is an alternative for you to store important files online. But OneD
 		
 			<item>
 				<title>002 - Social media gives you wings</title>
-				<link>http://localhost:4000/002-social-media/</link>
+				<link>https://writerandgeek.com/002-social-media/</link>
 				<pubDate>Thu, 01 Jun 2017 16:30:00 +0530</pubDate>
 				<!-- <description>Social media makes you rude? What makes us feel like it's okay to be?</description> -->
 				<description><h3 id="key-takaways">Key Takaways</h3>
@@ -7462,7 +7462,7 @@ Google Drive is an alternative for you to store important files online. But OneD
 
 <p>Image: <a href="https://pixabay.com/en/smiley-emoticon-undecided-unsure-1635455/" target="blank">Pixabay</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/002-social-media/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/002-social-media/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/27a8aea3.mp3" length="18426517" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>Social media makes you rude? What makes us feel like it's okay to be?</itunes:subtitle>
@@ -7529,7 +7529,7 @@ Google Drive is an alternative for you to store important files online. But OneD
 		
 			<item>
 				<title>001 - Does formal education do justice?</title>
-				<link>http://localhost:4000/001-education/</link>
+				<link>https://writerandgeek.com/001-education/</link>
 				<pubDate>Thu, 01 Jun 2017 15:35:00 +0530</pubDate>
 				<!-- <description>Did your school and college prepare you for your future life in the real world?</description> -->
 				<description><h3 id="key-takaways">Key Takaways</h3>
@@ -7555,7 +7555,7 @@ Google Drive is an alternative for you to store important files online. But OneD
 
 <p>Thumbnail Image: <a href="https://pixabay.com/en/books-icon-book-icon-symbol-set-1673578/" target="_blank">Pixabay</a></p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/001-education/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/001-education/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/4c2c64cb.mp3" length="15345641" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>Did your school and college prepare you for your future life in the real world?</itunes:subtitle>
@@ -7614,13 +7614,13 @@ Google Drive is an alternative for you to store important files online. But OneD
 		
 			<item>
 				<title>000 - Welcome to the show</title>
-				<link>http://localhost:4000/000-Intro/</link>
+				<link>https://writerandgeek.com/000-Intro/</link>
 				<pubDate>Sat, 27 May 2017 16:35:00 +0530</pubDate>
 				<!-- <description>What is Writer and Geek all about? This is an intro to W&amp;G</description> -->
 				<description><hr />
 <p>Music: - <a href="http://freemusicarchive.org/music/Pachyderm/Pachyderm_EP/" target="_blank">Pachyderm</a> - Ice Cold</p>
 </description>
-				<guid isPermaLink="true">http://localhost:4000/000-Intro/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/000-Intro/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/20b5f39e.mp3" length="1199515" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>What is Writer and Geek all about? This is an intro to W&amp;G</itunes:subtitle>
