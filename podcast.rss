@@ -10,8 +10,8 @@
 		<managingEditor>hello@writerandgeek.com</managingEditor>
 		<webMaster>hello@writerandgeek.com</webMaster>
 		<copyright>2018 - Writer &amp; Geek Show</copyright>
-		<pubDate>Tue, 30 Oct 2018 00:38:58 +0530</pubDate>
-		<lastBuildDate>Tue, 30 Oct 2018 00:38:58 +0530</lastBuildDate>
+		<pubDate>Tue, 30 Oct 2018 00:42:29 +0530</pubDate>
+		<lastBuildDate>Tue, 30 Oct 2018 00:42:29 +0530</lastBuildDate>
 		<image>
 			<link>https://writerandgeek.com</link>
 			<url>http://res.cloudinary.com/writerandgeek/image/upload/v1506998325/wnglogo.jpg</url>
@@ -39,10 +39,10 @@
 		
 			<item>
 				<title>054 - Is smoking cool?</title>
-				<link>https://writerandgeek.com/055-smoking/</link>
+				<link>https://writerandgeek.com/054-smoking/</link>
 				<pubDate>Tue, 30 Oct 2018 06:20:00 +0530</pubDate>
 				<description>In this episode, we discuss about smoking.</description>
-				<guid isPermaLink="true">https://writerandgeek.com/055-smoking/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/054-smoking/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/6b7c6aca.mp3" length="46992684" type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>In this episode, we discuss about smoking.</itunes:subtitle>
