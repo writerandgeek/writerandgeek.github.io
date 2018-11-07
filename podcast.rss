@@ -10,8 +10,8 @@
 		<managingEditor>hello@writerandgeek.com</managingEditor>
 		<webMaster>hello@writerandgeek.com</webMaster>
 		<copyright>2018 - Writer &amp; Geek Show</copyright>
-		<pubDate>Sat, 03 Nov 2018 15:14:15 +0530</pubDate>
-		<lastBuildDate>Sat, 03 Nov 2018 15:14:15 +0530</lastBuildDate>
+		<pubDate>Wed, 07 Nov 2018 19:47:57 +0530</pubDate>
+		<lastBuildDate>Wed, 07 Nov 2018 19:47:57 +0530</lastBuildDate>
 		<image>
 			<link>https://writerandgeek.com</link>
 			<url>http://res.cloudinary.com/writerandgeek/image/upload/v1506998325/wnglogo.jpg</url>
@@ -36,6 +36,150 @@
 			<itunes:category text="Philosophy" />
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
+		
+			<item>
+				<title>055 - Why is a dog a dog and not wolf?</title>
+				<link>https://writerandgeek.com/055-domestication/</link>
+				<pubDate>Wed, 07 Nov 2018 06:20:00 +0530</pubDate>
+				<description>In this episode, we talk about domestication.</description>
+				<guid isPermaLink="true">https://writerandgeek.com/055-domestication/</guid>
+				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/2d9ca325.mp3" length="44897904" type="audio/mp3"/>
+				<itunes:author>Vishnu &amp; Shankar</itunes:author>
+				<itunes:subtitle>In this episode, we talk about domestication.</itunes:subtitle>
+				<itunes:summary><![CDATA[<h3 id="evo-what-evolution">Evo… what? Evolution</h3>
+<p>The theory of evolution states that chemicals randomly orgnaised themselves into a self replicating molecule. The simple self-replicating molecule then underwent mutation and formed the complex organisms that ever existed on the earth. The theory consists of basicaly three parts:</p>
+<ul>
+  <li>It is possible for the DNA of an organism to occasionally change, or mutate.</li>
+  <li>The change brought about by a mutation is either beneficial, harmful or neutral.</li>
+  <li>As mutations occur and spread over long periods of time, they cause new species to form.</li>
+</ul>
+
+<p>Mutations have seen to be affecting E-Coli bacteria which under right circumstances can replicate itself in every 20 minutes. By the process of mutation, certain bacteria can evolve which can be resistant to certain antibiotics. This is similar to certain insects becoming immune to DDT.</p>
+
+<h3 id="domestication">Domestication</h3>
+<p>But not all animals can be domesticated. Out of the 148 major terrestrial mammals, only 14 were domesticated and gthe theory is the for a species to be able to be domesticated, there are six charecterisitcs:</p>
+<ul>
+  <li><strong>Efficient diet</strong>: Should be able to feed on cheap accessible food.</li>
+  <li><strong>Quick growth rate</strong>: Should be able to mature and reproduce at a faster rate.</li>
+  <li><strong>Ability to breed in captivity</strong>: Should be able to breed under domestic conditions.</li>
+  <li><strong>Pleasant disposition</strong>: Should not be dangerous.</li>
+  <li><strong>Tendency not to panic</strong>: These animals should not have a tenency to panic.</li>
+  <li><strong>Social structure</strong>: Should follow a social structure like pack animals where a certain heirarchy is respected.</li>
+</ul>
+
+<p>This is the reason why animals like Zebra are difficult to be domesticated.</p>
+
+<ul>
+  <li>Dogs are amongst the oldest domesticated animals. Dogs were domesticated before cattle and even plants.</li>
+</ul>
+
+<h3 id="changes-in-animals-post-domestication">Changes in animals post domestication</h3>
+<ul>
+  <li>Animals become more tame, in some cases grow floppy ears, tail etc.</li>
+  <li>Neural crest hypothesis suggests that deficits in the Neural Crest Cells which are the embryonic stem cells that produce various tissue types during embryogenesis.</li>
+  <li>These changes do not usually get reversed if the animal is release back to the wild. <strong>Dingo</strong> being an example.</li>
+  <li>Reversion almost never happens. <strong>Dingos</strong> are classic examples where in spite of staying apart from humans for thousands of years, thay haven’t shown any significant brain growth than normal dogs.</li>
+</ul>
+
+<h3 id="paths-of-animals-into-domestication">Paths of animals into domestication</h3>
+<ul>
+  <li><strong>Commensal pathway</strong>: Animals like dogs and cats who were attracted to human ways for resources available with human beings. Chickens too!</li>
+  <li><strong>Prey pathway</strong>: Animals like the livestock belong to a category that were once hunted for food. They were domestiated mostly for food.</li>
+  <li><strong>Directed pathway</strong>: These include animals like horses,donkeys etc that could be used for purposes like transporation etc. and no necessarily for meat.</li>
+</ul>
+
+<p>The pathways need not be exclusive. Animals may have followed multiple pathways.</p>
+
+<h3 id="the-russian-domesticated-fox">The Russian Domesticated Fox</h3>
+<ul>
+  <li><strong>Dmitry Belyayev</strong>: Belyayev conducted the <em>The Silver Fox Experiment</em>. He believed that all the domesticated animals have been selected for tameness. He conducted an experiment which took up most the last 26 years of his life.</li>
+  <li>He used a Siver fox, which is a variant of the <em>Red Fox</em> because he felt that it is more social and related to dog.</li>
+  <li>In 1958, he directed his assistant Lyudmila Trut to visit various fur farm in Soviet Union and select the calmest foxes she could find.</li>
+  <li>Experiment began with 30 male foxes and 100 vixens, most of them from a commercial fur farm in Estonia.</li>
+  <li>They were bred solely for tameness and weren’t trained to ensure that the resulting tameness was due to genetics and not due to training.</li>
+  <li>Darwin had stated that domesticated animals tend to have smaller heads, floppier ears, curlier tails and spotty coats to appear juvenile to humans. Belyayev wanted to test this theory as well.</li>
+  <li>Genetics had recieved some bad rap in post war Soviet, so Belyayev spoke about his research in terms of Phsycology rather than mention genes.</li>
+  <li>Starting at month one throughout, the foxes were tested for their reactions to the experimenter. They would pet and handle the foxes and at when they reach sexual maturity at 7-8 months, they are assigned an overall tameness score.</li>
+  <li>During the end of 7-8 months they were categorised onto three classes based on their tameness index.</li>
+  <li>An <em>Elite</em> class was later added that showed even more tameness and friendliness than class 1.</li>
+  <li>The experiment started showing rapid results and by the fourth generation, researchers were able to find results that was up to their expectations.</li>
+  <li>An employee took a fox home and it responded to it’s name the same a way a dog does.</li>
+  <li>By tenth generation 18% of the population was elite group and by 20th generaion this number had risen to 35% and to around 80% in 2009.</li>
+  <li>After around 40 generations, Belyayev’s foxes have floppy ears, transformation in skull size, curly tails, mating periods, changes in fur colour and even lost their fox odour.</li>
+</ul>
+
+<p><a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@berkaygumustekin?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Berkay Gumustekin"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-1px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M20.8 18.1c0 2.7-2.2 4.8-4.8 4.8s-4.8-2.1-4.8-4.8c0-2.7 2.2-4.8 4.8-4.8 2.7.1 4.8 2.2 4.8 4.8zm11.2-7.4v14.9c0 2.3-1.9 4.3-4.3 4.3h-23.4c-2.4 0-4.3-1.9-4.3-4.3v-15c0-2.3 1.9-4.3 4.3-4.3h3.7l.8-2.3c.4-1.1 1.7-2 2.9-2h8.6c1.2 0 2.5.9 2.9 2l.8 2.4h3.7c2.4 0 4.3 1.9 4.3 4.3zm-8.6 7.5c0-4.1-3.3-7.5-7.5-7.5-4.1 0-7.5 3.4-7.5 7.5s3.3 7.5 7.5 7.5c4.2-.1 7.5-3.4 7.5-7.5z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Berkay Gumustekin</span></a></p>
+]]></itunes:summary>
+				<content:encoded><![CDATA[<h3 id="evo-what-evolution">Evo… what? Evolution</h3>
+<p>The theory of evolution states that chemicals randomly orgnaised themselves into a self replicating molecule. The simple self-replicating molecule then underwent mutation and formed the complex organisms that ever existed on the earth. The theory consists of basicaly three parts:</p>
+<ul>
+  <li>It is possible for the DNA of an organism to occasionally change, or mutate.</li>
+  <li>The change brought about by a mutation is either beneficial, harmful or neutral.</li>
+  <li>As mutations occur and spread over long periods of time, they cause new species to form.</li>
+</ul>
+
+<p>Mutations have seen to be affecting E-Coli bacteria which under right circumstances can replicate itself in every 20 minutes. By the process of mutation, certain bacteria can evolve which can be resistant to certain antibiotics. This is similar to certain insects becoming immune to DDT.</p>
+
+<h3 id="domestication">Domestication</h3>
+<p>But not all animals can be domesticated. Out of the 148 major terrestrial mammals, only 14 were domesticated and gthe theory is the for a species to be able to be domesticated, there are six charecterisitcs:</p>
+<ul>
+  <li><strong>Efficient diet</strong>: Should be able to feed on cheap accessible food.</li>
+  <li><strong>Quick growth rate</strong>: Should be able to mature and reproduce at a faster rate.</li>
+  <li><strong>Ability to breed in captivity</strong>: Should be able to breed under domestic conditions.</li>
+  <li><strong>Pleasant disposition</strong>: Should not be dangerous.</li>
+  <li><strong>Tendency not to panic</strong>: These animals should not have a tenency to panic.</li>
+  <li><strong>Social structure</strong>: Should follow a social structure like pack animals where a certain heirarchy is respected.</li>
+</ul>
+
+<p>This is the reason why animals like Zebra are difficult to be domesticated.</p>
+
+<ul>
+  <li>Dogs are amongst the oldest domesticated animals. Dogs were domesticated before cattle and even plants.</li>
+</ul>
+
+<h3 id="changes-in-animals-post-domestication">Changes in animals post domestication</h3>
+<ul>
+  <li>Animals become more tame, in some cases grow floppy ears, tail etc.</li>
+  <li>Neural crest hypothesis suggests that deficits in the Neural Crest Cells which are the embryonic stem cells that produce various tissue types during embryogenesis.</li>
+  <li>These changes do not usually get reversed if the animal is release back to the wild. <strong>Dingo</strong> being an example.</li>
+  <li>Reversion almost never happens. <strong>Dingos</strong> are classic examples where in spite of staying apart from humans for thousands of years, thay haven’t shown any significant brain growth than normal dogs.</li>
+</ul>
+
+<h3 id="paths-of-animals-into-domestication">Paths of animals into domestication</h3>
+<ul>
+  <li><strong>Commensal pathway</strong>: Animals like dogs and cats who were attracted to human ways for resources available with human beings. Chickens too!</li>
+  <li><strong>Prey pathway</strong>: Animals like the livestock belong to a category that were once hunted for food. They were domestiated mostly for food.</li>
+  <li><strong>Directed pathway</strong>: These include animals like horses,donkeys etc that could be used for purposes like transporation etc. and no necessarily for meat.</li>
+</ul>
+
+<p>The pathways need not be exclusive. Animals may have followed multiple pathways.</p>
+
+<h3 id="the-russian-domesticated-fox">The Russian Domesticated Fox</h3>
+<ul>
+  <li><strong>Dmitry Belyayev</strong>: Belyayev conducted the <em>The Silver Fox Experiment</em>. He believed that all the domesticated animals have been selected for tameness. He conducted an experiment which took up most the last 26 years of his life.</li>
+  <li>He used a Siver fox, which is a variant of the <em>Red Fox</em> because he felt that it is more social and related to dog.</li>
+  <li>In 1958, he directed his assistant Lyudmila Trut to visit various fur farm in Soviet Union and select the calmest foxes she could find.</li>
+  <li>Experiment began with 30 male foxes and 100 vixens, most of them from a commercial fur farm in Estonia.</li>
+  <li>They were bred solely for tameness and weren’t trained to ensure that the resulting tameness was due to genetics and not due to training.</li>
+  <li>Darwin had stated that domesticated animals tend to have smaller heads, floppier ears, curlier tails and spotty coats to appear juvenile to humans. Belyayev wanted to test this theory as well.</li>
+  <li>Genetics had recieved some bad rap in post war Soviet, so Belyayev spoke about his research in terms of Phsycology rather than mention genes.</li>
+  <li>Starting at month one throughout, the foxes were tested for their reactions to the experimenter. They would pet and handle the foxes and at when they reach sexual maturity at 7-8 months, they are assigned an overall tameness score.</li>
+  <li>During the end of 7-8 months they were categorised onto three classes based on their tameness index.</li>
+  <li>An <em>Elite</em> class was later added that showed even more tameness and friendliness than class 1.</li>
+  <li>The experiment started showing rapid results and by the fourth generation, researchers were able to find results that was up to their expectations.</li>
+  <li>An employee took a fox home and it responded to it’s name the same a way a dog does.</li>
+  <li>By tenth generation 18% of the population was elite group and by 20th generaion this number had risen to 35% and to around 80% in 2009.</li>
+  <li>After around 40 generations, Belyayev’s foxes have floppy ears, transformation in skull size, curly tails, mating periods, changes in fur colour and even lost their fox odour.</li>
+</ul>
+
+<p><a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@berkaygumustekin?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Berkay Gumustekin"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-1px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M20.8 18.1c0 2.7-2.2 4.8-4.8 4.8s-4.8-2.1-4.8-4.8c0-2.7 2.2-4.8 4.8-4.8 2.7.1 4.8 2.2 4.8 4.8zm11.2-7.4v14.9c0 2.3-1.9 4.3-4.3 4.3h-23.4c-2.4 0-4.3-1.9-4.3-4.3v-15c0-2.3 1.9-4.3 4.3-4.3h3.7l.8-2.3c.4-1.1 1.7-2 2.9-2h8.6c1.2 0 2.5.9 2.9 2l.8 2.4h3.7c2.4 0 4.3 1.9 4.3 4.3zm-8.6 7.5c0-4.1-3.3-7.5-7.5-7.5-4.1 0-7.5 3.4-7.5 7.5s3.3 7.5 7.5 7.5c4.2-.1 7.5-3.4 7.5-7.5z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Berkay Gumustekin</span></a></p>
+]]></content:encoded>
+				<itunes:duration>00:44:26</itunes:duration>
+				<itunes:keywords></itunes:keywords>
+				<itunes:image href="http://res.cloudinary.com/writerandgeek/image/upload/v1506998325/wnglogo.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>054 - Is smoking cool?</title>
