@@ -10,8 +10,8 @@
 		<managingEditor>hello@writerandgeek.com</managingEditor>
 		<webMaster>hello@writerandgeek.com</webMaster>
 		<copyright>2018 - Writer &amp; Geek Show</copyright>
-		<pubDate>Wed, 07 Nov 2018 19:49:24 +0530</pubDate>
-		<lastBuildDate>Wed, 07 Nov 2018 19:49:24 +0530</lastBuildDate>
+		<pubDate>Tue, 20 Nov 2018 23:45:50 +0530</pubDate>
+		<lastBuildDate>Tue, 20 Nov 2018 23:45:50 +0530</lastBuildDate>
 		<image>
 			<link>https://writerandgeek.com</link>
 			<url>http://res.cloudinary.com/writerandgeek/image/upload/v1506998325/wnglogo.jpg</url>
@@ -36,6 +36,30 @@
 			<itunes:category text="Philosophy" />
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
+		
+			<item>
+				<title>056 - The Monolithic Wonder</title>
+				<link>https://writerandgeek.com/056-monolithic-wonder/</link>
+				<pubDate>Tue, 20 Nov 2018 06:20:00 +0530</pubDate>
+				<description>In this episode, we talk about Shravanabelagola.</description>
+				<guid isPermaLink="true">https://writerandgeek.com/056-monolithic-wonder/</guid>
+				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/04b322fc.mp3" length="33103484" type="audio/mp3"/>
+				<itunes:author>Vishnu &amp; Shankar</itunes:author>
+				<itunes:subtitle>In this episode, we talk about Shravanabelagola.</itunes:subtitle>
+				<itunes:summary><![CDATA[<p>Shravanabelagola is one of the most sacred Jain centres in South India. The holy land is abundantly rich with centuries of history, glorious traditions and culture, distinctive religious nature and practices, and architecture. The place boasts a rare combination of diverse features which makes it a prominent place of pilgrimage and tourism. The town is bundled between the two hills of Vindhyagiri and Chandragiri and it is well known for its scenic beauty.</p>
+
+<p>Pratyk321 [<a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>], <a href="https://commons.wikimedia.org/wiki/File:Mahamastakabhisheka_-_Gommateshwara_statue_(1)-01.jpg">from Wikimedia Commons</a></p>
+]]></itunes:summary>
+				<content:encoded><![CDATA[<p>Shravanabelagola is one of the most sacred Jain centres in South India. The holy land is abundantly rich with centuries of history, glorious traditions and culture, distinctive religious nature and practices, and architecture. The place boasts a rare combination of diverse features which makes it a prominent place of pilgrimage and tourism. The town is bundled between the two hills of Vindhyagiri and Chandragiri and it is well known for its scenic beauty.</p>
+
+<p>Pratyk321 [<a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>], <a href="https://commons.wikimedia.org/wiki/File:Mahamastakabhisheka_-_Gommateshwara_statue_(1)-01.jpg">from Wikimedia Commons</a></p>
+]]></content:encoded>
+				<itunes:duration>00:32:09</itunes:duration>
+				<itunes:keywords></itunes:keywords>
+				<itunes:image href="http://res.cloudinary.com/writerandgeek/image/upload/v1506998325/wnglogo.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>055 - Why is a dog a dog and not wolf?</title>
