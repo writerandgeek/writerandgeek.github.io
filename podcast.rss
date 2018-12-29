@@ -10,8 +10,8 @@
 		<managingEditor>hello@writerandgeek.com</managingEditor>
 		<webMaster>hello@writerandgeek.com</webMaster>
 		<copyright>2018 - Writer &amp; Geek Show</copyright>
-		<pubDate>Sat, 29 Dec 2018 09:32:04 +0530</pubDate>
-		<lastBuildDate>Sat, 29 Dec 2018 09:32:04 +0530</lastBuildDate>
+		<pubDate>Sat, 29 Dec 2018 17:41:08 +0530</pubDate>
+		<lastBuildDate>Sat, 29 Dec 2018 17:41:08 +0530</lastBuildDate>
 		<image>
 			<link>https://writerandgeek.com</link>
 			<url>http://res.cloudinary.com/writerandgeek/image/upload/v1506998325/wnglogo.jpg</url>
@@ -38,11 +38,11 @@
 		<itunes:explicit>yes</itunes:explicit>
 		
 			<item>
-				<title>058 - The gangster from Madras</title>
-				<link>https://writerandgeek.com/058-auto-shankar/</link>
+				<title>058 - Serial Killer Files Part 6: The gangster from Madras</title>
+				<link>https://writerandgeek.com/058-serial-killer-auto-shankar/</link>
 				<pubDate>Sat, 29 Dec 2018 06:20:00 +0530</pubDate>
 				<description>In this episode, we talk about auto Shankar.</description>
-				<guid isPermaLink="true">https://writerandgeek.com/058-auto-shankar/</guid>
+				<guid isPermaLink="true">https://writerandgeek.com/058-serial-killer-auto-shankar/</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/33e2574c.mp3" length="30782571 " type="audio/mp3"/>
 				<itunes:author>Vishnu &amp; Shankar</itunes:author>
 				<itunes:subtitle>In this episode, we talk about auto Shankar.</itunes:subtitle>
