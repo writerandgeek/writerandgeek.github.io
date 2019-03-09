@@ -10,8 +10,8 @@
 		<managingEditor>hello@writerandgeek.com</managingEditor>
 		<webMaster>hello@writerandgeek.com</webMaster>
 		<copyright>2019 - Writer &amp; Geek Show</copyright>
-		<pubDate>Wed, 13 Feb 2019 17:12:15 +0530</pubDate>
-		<lastBuildDate>Wed, 13 Feb 2019 17:12:15 +0530</lastBuildDate>
+		<pubDate>Sat, 09 Mar 2019 10:42:07 +0530</pubDate>
+		<lastBuildDate>Sat, 09 Mar 2019 10:42:07 +0530</lastBuildDate>
 		<image>
 			<link>https://writerandgeek.com</link>
 			<url>http://res.cloudinary.com/writerandgeek/image/upload/v1506998325/wnglogo.jpg</url>
@@ -36,6 +36,26 @@
 			<itunes:category text="Philosophy" />
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
+		
+			<item>
+				<title>062 - Beer Talk: Life 'n' stuff</title>
+				<link>https://writerandgeek.com/062-life-n-stuff/</link>
+				<pubDate>Fri, 08 Mar 2019 06:20:00 +0530</pubDate>
+				<description>In this episode, the boys sit down to discuss life 'n' stuff.</description>
+				<guid isPermaLink="true">https://writerandgeek.com/062-life-n-stuff/</guid>
+				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/d20351c9.mp3" length="36965421" type="audio/mp3"/>
+				<itunes:author>Vishnu &amp; Shankar</itunes:author>
+				<itunes:subtitle>In this episode, the boys sit down to discuss life 'n' stuff.</itunes:subtitle>
+				<itunes:summary><![CDATA[<p>In this episode, the boys sit down to discuss life ‘n’ stuff.</p>
+]]></itunes:summary>
+				<content:encoded><![CDATA[<p>In this episode, the boys sit down to discuss life ‘n’ stuff.</p>
+]]></content:encoded>
+				<itunes:duration>00:36:10</itunes:duration>
+				<itunes:keywords></itunes:keywords>
+				<itunes:image href="http://res.cloudinary.com/writerandgeek/image/upload/v1506998325/wnglogo.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>061 - Personal Finance ft. Naga from Passion People Podcast</title>
