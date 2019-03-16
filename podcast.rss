@@ -10,8 +10,8 @@
 		<managingEditor>hello@writerandgeek.com</managingEditor>
 		<webMaster>hello@writerandgeek.com</webMaster>
 		<copyright>2019 - Writer &amp; Geek Show</copyright>
-		<pubDate>Sat, 09 Mar 2019 10:42:07 +0530</pubDate>
-		<lastBuildDate>Sat, 09 Mar 2019 10:42:07 +0530</lastBuildDate>
+		<pubDate>Sat, 16 Mar 2019 23:24:13 +0530</pubDate>
+		<lastBuildDate>Sat, 16 Mar 2019 23:24:13 +0530</lastBuildDate>
 		<image>
 			<link>https://writerandgeek.com</link>
 			<url>http://res.cloudinary.com/writerandgeek/image/upload/v1506998325/wnglogo.jpg</url>
@@ -36,6 +36,74 @@
 			<itunes:category text="Philosophy" />
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
+		
+			<item>
+				<title>063 - Is ejection seat a better alternative?.</title>
+				<link>https://writerandgeek.com/063-ejection-seat/</link>
+				<pubDate>Sun, 17 Mar 2019 02:20:00 +0530</pubDate>
+				<description>In this episode, we talk about the life saving ejection seat.</description>
+				<guid isPermaLink="true">https://writerandgeek.com/063-ejection-seat/</guid>
+				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://audio.simplecast.com/4b1c8131.mp3" length="29821293" type="audio/mp3"/>
+				<itunes:author>Vishnu &amp; Shankar</itunes:author>
+				<itunes:subtitle>In this episode, we talk about the life saving ejection seat.</itunes:subtitle>
+				<itunes:summary><![CDATA[<h3 id="what-is-ejection-seat">What is ejection seat?</h3>
+<p>The ejection seat is a safety mechanism primarily used in aircraft to save a pilot or a passenger by propelling the seat out of the disabled aircraft.</p>
+
+<ul>
+  <li>An explosive charge or rocket is used to propel the seat to a safe distance and a parachute takes care of the rest of the journey down to the ground.</li>
+  <li><strong>Everald Calthorp</strong> who earlier had invented parachutes devised an ejection seat that used compressed air.</li>
+  <li>Romanian inventor <strong>Ananstase Dragomir</strong> proposed the modern layout for ejection seats in the late 1920s. The <em>parachuted cell</em> design was tested on 25 August 1929 in Paris and got the design patented.</li>
+  <li>The technique used before ejection seat was to simply jump out of the aircraft which in most cases was difficult as it would cause injury and was dangerous.</li>
+  <li>As with most of the things, World War II led to the development and perfection of parachutes.</li>
+  <li><strong>Heinkel</strong> and <strong>SAAB</strong> developed the ejection seat independently. These early models were compressed air powered seats. <strong>Heinkel HE 280</strong>, the prototype jet fighter, had an ejection system built into it.</li>
+</ul>
+
+<h3 id="the-process">The Process</h3>
+<p>If there arises a scenario where ejection is imminent, the command “eject” is used as an early warning that a possible ejection is coming up in next 30 or so seconds. At the critical moment, the command “bailout” is used and the crew ejects.</p>
+
+<p>The sequence:</p>
+<ul>
+  <li>When the pilot activates the ejection system, first the canopy is blown off or opened.</li>
+  <li>The pilot and the seat are launched through the opening.</li>
+  <li>During ejection, a catapult propels the seat up the rails and then the rocket engine takes over.</li>
+  <li>The canopy forms another part of the ejection system. Most of the aircraft are designed in a way where the canopy is blown off the aircraft. In some cases to avoid delay or seat hitting the canopy, a specially designed canopy filled with explosive charges embedded within the acrylic canopy which when initiated, shatters the canopy above and the seat is ejected a few seconds later.</li>
+  <li>In some other aircraft without canopy, the seats are ejected through hatches. B-52 bombers had ejection seats that were ejected through the hatches, four in the roof and two on the floor.</li>
+</ul>
+
+<p><a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@vishu_gowda?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Vishu Gowda"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Vishu Gowda</span></a></p>
+]]></itunes:summary>
+				<content:encoded><![CDATA[<h3 id="what-is-ejection-seat">What is ejection seat?</h3>
+<p>The ejection seat is a safety mechanism primarily used in aircraft to save a pilot or a passenger by propelling the seat out of the disabled aircraft.</p>
+
+<ul>
+  <li>An explosive charge or rocket is used to propel the seat to a safe distance and a parachute takes care of the rest of the journey down to the ground.</li>
+  <li><strong>Everald Calthorp</strong> who earlier had invented parachutes devised an ejection seat that used compressed air.</li>
+  <li>Romanian inventor <strong>Ananstase Dragomir</strong> proposed the modern layout for ejection seats in the late 1920s. The <em>parachuted cell</em> design was tested on 25 August 1929 in Paris and got the design patented.</li>
+  <li>The technique used before ejection seat was to simply jump out of the aircraft which in most cases was difficult as it would cause injury and was dangerous.</li>
+  <li>As with most of the things, World War II led to the development and perfection of parachutes.</li>
+  <li><strong>Heinkel</strong> and <strong>SAAB</strong> developed the ejection seat independently. These early models were compressed air powered seats. <strong>Heinkel HE 280</strong>, the prototype jet fighter, had an ejection system built into it.</li>
+</ul>
+
+<h3 id="the-process">The Process</h3>
+<p>If there arises a scenario where ejection is imminent, the command “eject” is used as an early warning that a possible ejection is coming up in next 30 or so seconds. At the critical moment, the command “bailout” is used and the crew ejects.</p>
+
+<p>The sequence:</p>
+<ul>
+  <li>When the pilot activates the ejection system, first the canopy is blown off or opened.</li>
+  <li>The pilot and the seat are launched through the opening.</li>
+  <li>During ejection, a catapult propels the seat up the rails and then the rocket engine takes over.</li>
+  <li>The canopy forms another part of the ejection system. Most of the aircraft are designed in a way where the canopy is blown off the aircraft. In some cases to avoid delay or seat hitting the canopy, a specially designed canopy filled with explosive charges embedded within the acrylic canopy which when initiated, shatters the canopy above and the seat is ejected a few seconds later.</li>
+  <li>In some other aircraft without canopy, the seats are ejected through hatches. B-52 bombers had ejection seats that were ejected through the hatches, four in the roof and two on the floor.</li>
+</ul>
+
+<p><a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@vishu_gowda?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Vishu Gowda"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Vishu Gowda</span></a></p>
+]]></content:encoded>
+				<itunes:duration>00:28:44</itunes:duration>
+				<itunes:keywords></itunes:keywords>
+				<itunes:image href="http://res.cloudinary.com/writerandgeek/image/upload/v1506998325/wnglogo.jpg" />
+				<itunes:explicit>yes</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>062 - Beer Talk: Life 'n' stuff</title>
