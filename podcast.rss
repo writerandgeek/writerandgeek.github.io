@@ -10,8 +10,8 @@
 		<managingEditor>hello@writerandgeek.com</managingEditor>
 		<webMaster>hello@writerandgeek.com</webMaster>
 		<copyright>2019 - Writer &amp; Geek Show</copyright>
-		<pubDate>Sat, 16 Mar 2019 23:24:13 +0530</pubDate>
-		<lastBuildDate>Sat, 16 Mar 2019 23:24:13 +0530</lastBuildDate>
+		<pubDate>Tue, 19 Mar 2019 02:07:05 +0530</pubDate>
+		<lastBuildDate>Tue, 19 Mar 2019 02:07:05 +0530</lastBuildDate>
 		<image>
 			<link>https://writerandgeek.com</link>
 			<url>http://res.cloudinary.com/writerandgeek/image/upload/v1506998325/wnglogo.jpg</url>
@@ -101,7 +101,7 @@
 				<itunes:duration>00:28:44</itunes:duration>
 				<itunes:keywords></itunes:keywords>
 				<itunes:image href="http://res.cloudinary.com/writerandgeek/image/upload/v1506998325/wnglogo.jpg" />
-				<itunes:explicit>yes</itunes:explicit>
+				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
