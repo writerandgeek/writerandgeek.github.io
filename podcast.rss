@@ -10,8 +10,8 @@
 		<managingEditor>hello@writerandgeek.com</managingEditor>
 		<webMaster>hello@writerandgeek.com</webMaster>
 		<copyright>2019 - Writer &amp; Geek Show</copyright>
-		<pubDate>Fri, 04 Oct 2019 20:38:24 +0530</pubDate>
-		<lastBuildDate>Fri, 04 Oct 2019 20:38:24 +0530</lastBuildDate>
+		<pubDate>Fri, 04 Oct 2019 20:42:37 +0530</pubDate>
+		<lastBuildDate>Fri, 04 Oct 2019 20:42:37 +0530</lastBuildDate>
 		<image>
 			<link>https://writerandgeek.com</link>
 			<url>http://res.cloudinary.com/writerandgeek/image/upload/v1506998325/wnglogo.jpg</url>
@@ -72,7 +72,7 @@
 ]]></content:encoded>
 				<itunes:duration>00:31:56</itunes:duration>
 				<itunes:keywords></itunes:keywords>
-				<itunes:image href="https://res.cloudinary.com/writerandgeek/image/upload/v1569001125/rent.jpg" />
+				<itunes:image href="https://res.cloudinary.com/writerandgeek/image/upload/v1570201934/rent.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -242,7 +242,7 @@
 ]]></content:encoded>
 				<itunes:duration>00:27:54</itunes:duration>
 				<itunes:keywords></itunes:keywords>
-				<itunes:image href="https://res.cloudinary.com/writerandgeek/image/upload/v1561189023/water-crisis.jpg" />
+				<itunes:image href="https://res.cloudinary.com/writerandgeek/image/upload/v1570201825/water-crisis.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
