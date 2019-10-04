@@ -10,8 +10,8 @@
 		<managingEditor>hello@writerandgeek.com</managingEditor>
 		<webMaster>hello@writerandgeek.com</webMaster>
 		<copyright>2019 - Writer &amp; Geek Show</copyright>
-		<pubDate>Fri, 20 Sep 2019 23:09:33 +0530</pubDate>
-		<lastBuildDate>Fri, 20 Sep 2019 23:09:33 +0530</lastBuildDate>
+		<pubDate>Fri, 04 Oct 2019 20:21:48 +0530</pubDate>
+		<lastBuildDate>Fri, 04 Oct 2019 20:21:48 +0530</lastBuildDate>
 		<image>
 			<link>https://writerandgeek.com</link>
 			<url>http://res.cloudinary.com/writerandgeek/image/upload/v1506998325/wnglogo.jpg</url>
@@ -36,6 +36,26 @@
 			<itunes:category text="Philosophy" />
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
+		
+			<item>
+				<title>071 - Cosmic time measurement in Hinduism</title>
+				<link>https://writerandgeek.com/071-cosmic-time/</link>
+				<pubDate>Thu, 03 Oct 2019 06:20:00 +0530</pubDate>
+				<description>In this episode, we talk about time measurement in Hindu culture.</description>
+				<guid isPermaLink="true">https://writerandgeek.com/071-cosmic-time/</guid>
+				<enclosure url="http://dts.podtrac.com/redirect.mp3/https://cdn.simplecast.com/audio/114bad/114bade8-2cf2-43cf-8ba0-fc353da8cd60/b9b8016e-abb4-4059-9ec5-57735147ad7f/wngep070_tc.mp3" length="31691971" type="audio/mp3"/>
+				<itunes:author>Vishnu &amp; Shankar</itunes:author>
+				<itunes:subtitle>In this episode, we talk about time measurement in Hindu culture.</itunes:subtitle>
+				<itunes:summary><![CDATA[<p><a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@nasa?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from NASA"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">NASA</span></a></p>
+]]></itunes:summary>
+				<content:encoded><![CDATA[<p><a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@nasa?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from NASA"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">NASA</span></a></p>
+]]></content:encoded>
+				<itunes:duration>00:31:56</itunes:duration>
+				<itunes:keywords></itunes:keywords>
+				<itunes:image href="https://res.cloudinary.com/writerandgeek/image/upload/v1570198905/cosmic-time.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>070 - Renting a house</title>
